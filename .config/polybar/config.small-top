@@ -1,0 +1,158 @@
+
+[color]
+trans = #00000000
+white = #FFFFFF
+
+;bg = #243B4C
+bg = #1b2b34
+fg = #c0c5ce
+fg-alt = #5fadad
+
+acolor = #88c0d0
+curgent = #e53935
+occupied = #fac863
+
+## Material Colors
+
+black = #0b0d19
+alpha = #aa000000
+
+[bar/mybar]
+radius-top = 5
+radius-bottom = 5
+monitor = LVDS1
+width = 11%
+height = 23
+offset-x = 88.5%
+offset-y = 0.5%
+bottom = false
+fixed-center = true
+line-size = 0
+background = ${color.black}
+foreground = ${color.fg}
+
+;border-size = 2
+;border-color = ${color.border}
+
+module-margin-left = 1
+module-margin-right = 1
+
+font-0 = "Cascadia Code:pixelsize=11;2"
+font-1 = "mononoki Nerd Font:pixelsize=16;2"
+font-2 = "mononoki Nerd Font:pixelsize=11;1"
+
+
+# cursor-click = pointer
+# cursor-scroll = ns-resize
+
+;tray-position = right
+;tray-padding = 0
+;tray-maxsize = 16
+
+scroll-up = bspc desktop -f prev.local
+scroll-down = bspc desktop -f next.local
+
+
+modules-center = battery date
+
+
+[module/battery]
+type = internal/battery
+full-at = 99
+time-format = %H:%M
+battery = BAT0
+adapter = AC
+format-charging = <animation-charging> <label-charging>
+;label-charging = %percentage%% (%time%)
+label-charging = %percentage%%
+format-discharging = <ramp-capacity> <label-discharging>
+;label-discharging = %percentage%% (%time%)
+label-discharging = %percentage%%
+format-full = <label-full>
+format-full-foregroud = ${color.fg-alt}
+format-full-prefix = "%{T3} "
+ramp-capacity-0 = %{T3}
+ramp-capacity-1 = %{T3}
+ramp-capacity-2 = %{T3}
+ramp-capacity-3 = %{T3}
+ramp-capacity-4 = %{T3}
+ramp-capacity-5 = %{T3}
+ramp-capacity-6 = %{T3}
+ramp-capacity-7 = %{T3}
+ramp-capacity-8 = %{T3}
+
+animation-charging-foreground = ${color.fg-alt}
+ramp-capacity-0-foreground = ${color.fg-alt}
+ramp-capacity-foreground   = ${color.fg-alt}
+bar-capacity-width = 10
+
+animation-charging-0 = "%{T3}"
+animation-charging-1 = "%{T3}"
+animation-charging-2 = "%{T3}"
+animation-charging-3 = "%{T3}"
+animation-charging-4 = "%{T3}"
+animation-charging-5 = "%{T3}"
+animation-charging-6 = "%{T3}"
+
+animation-charging-framerate = 750
+
+[module/volume]
+type = internal/alsa
+;speaker-mixer = Speaker
+;headphone-mixer = Headphone
+;headphone-id = 16
+mapped = true
+format-volume = <ramp-volume> <label-volume>
+label-volume = %percentage%%
+format-muted-prefix = "婢 "
+label-muted = MUTE
+
+;ramp-volume-0 = 婢
+;ramp-volume-1 = 奄
+;ramp-volume-2 = 奄
+;ramp-volume-3 = 奔
+;ramp-volume-4 = 奔
+;ramp-volume-5 = 墳
+;ramp-volume-6 = 墳
+
+ramp-volume-foreground = ${color.fg-alt}
+ramp-volume-0 = %{T3}
+ramp-volume-1 = %{T3}
+ramp-volume-2 = %{T3}
+ramp-volume-3 = %{T3}
+ramp-volume-4 = %{T3}
+
+
+[module/network]
+type = internal/network
+interface = wlp3s20f3
+interval = 3.0
+udspeed-minwidth = 0
+format-connected = <label-connected>
+format-disconnected = <label-disconnected>
+;label-connected = %{A1:network:}直 %essid%%{A}
+label-connected = %{A1:network:}%{T3}直%{A}
+label-connected-foreground = #5fadad
+label-disconnected = %{T3}睊
+label-disconnected-foreground = #5fadad
+
+[module/date]
+type = internal/date
+interval = 30
+label =  %time%
+;time =  %I:%M %p
+time = %I:%M %p
+time-alt =  %Y-%m-%d
+
+[module/rightcp]
+type = custom/text
+content = 
+content-background = ${color.alpha}
+content-foreground = ${color.black}
+
+[module/leftcp]
+type = custom/text
+content = %{T2}%{T1}
+;content = 
+content-background = ${color.alpha}
+content-foreground = ${color.black}

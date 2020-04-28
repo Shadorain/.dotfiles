@@ -1,0 +1,26 @@
+#!/bin/bash
+
+# get all nodes on current desktop
+NODES=$(bspc query -N -n .tiled -d focused)
+# get all hidden nodes on desktop
+HNODES=$(bspc query -N -n .window.hidden -d focused)
+
+if [ -z ${#NODES} > 0 ]; then
+    # unhide each hidden node
+    for hnode in $NODES; do
+        bspc node $node -g hidden=off
+    done
+elif [ ${#HNODES} > 0 ]; then
+    # hide each node
+    for node in $NODES; do
+        bspc node $ndoe -g hidden=on
+    done
+else
+    # just unhide all
+    for hnode in $NODES; do
+        bspc node $node -g hidden=off
+    done
+fi
+
+
+

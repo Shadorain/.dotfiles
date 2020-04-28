@@ -1,0 +1,10 @@
+#!/bin/bash
+choices="Logout\nShutdown\nReboot"
+chosen=$(echo -e $choices | rofi -dmenu -i -p "Power Menu" -location "north east" -width -30 -lines 45)
+echo "$chosen"
+
+case "$chosen" in
+        Logout) bspwm exit ;;
+        Shutdown) shutdown -h now;;
+        Reboot) reboot ;; 
+esac

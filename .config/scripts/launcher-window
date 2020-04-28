@@ -1,0 +1,2 @@
+#!/bin/bash
+rofi -show window -display-window " "

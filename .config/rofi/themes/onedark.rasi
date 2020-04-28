@@ -1,0 +1,126 @@
+/*
+ * ROFI One Dark
+ *
+ * Based on OneDark.vim (https://github.com/joshdick/onedark.vim)
+ *
+ * Author: Benjamin Stauss
+ * User: me-benni
+ *
+ */
+
+
+* {
+  black:      #000000;
+  red:        #eb6e67;
+  green:      #95ee8f;
+  yellow:     #f8c456;
+  blue:       #6eaafb;
+  mangenta:   #d886f3;
+  cyan:       #6cdcf7;
+  emphasis:   #50536b;
+  text:       #dfdfdf;
+  text-alt:   #b2b2b2;
+  fg:         #5ADECD;
+  //fg:         #abb2bf;
+  bg:         #1c162e;
+  //bg:         #282c34;
+
+  spacing: 0;
+  background-color: rgb (28, 22, 46);
+
+  font: "Hack Nerd Font 12";
+  text-color: #5ADECD;
+  //text-color: @text;
+  //border-color: #991559;
+  //border: 1px;
+  //margin: 35px 0px 0px 0px;
+}
+
+window {
+  //transparency: "real";
+  fullscreen: false;
+  border-color: #991559;
+  border: 1px;
+  //background-color: #282c34dd;
+  //background-color: rgba (28, 22, 46, 90%);
+  location: north west;
+  anchor: north west;
+  width: 45%;
+  height: 21%;
+  children: [mainbox]; 
+}
+
+mainbox {
+  padding: 10 10;
+}
+
+inputbar {
+  border-color: #8897F4;
+  margin: 0px 0px 10px 0px;
+  border: 0 0 1px 0;
+  children: [prompt, textbox-prompt-colon, entry, case-indicator];
+}
+
+prompt {
+  text-color: @blue;
+  border-color: #8897F4;
+  //border-color: #2e343f;
+  padding: 8px;
+  border: 0 1px 0 0;
+}
+
+textbox-prompt-colon {
+  expand: false;
+}
+
+textbox {
+  text-color: #5ADECD;
+  padding: 8px 16px;
+}
+
+entry {
+  padding: 8px 5px 10px 10px;
+  //margin: 0px 10px;
+}
+
+listview {
+  margin: 0 0 -1px 0;
+  cycle: false;
+  //spacing: 5px;
+  dynamic: true;
+  scrollbar: false;
+}
+
+element {
+  padding: 5px;
+  text-color: @text-alt;
+  highlight: bold #95ee8f; /* green */
+  //border-radius: 3px;
+}
+
+element selected {
+  background-color: #8897F4;
+  text-color: #31239e;
+}
+
+element urgent, element selected urgent {
+  text-color: @red;
+}
+
+element active, element selected active {
+  text-color: @purple;
+}
+
+message {
+  padding: 5px;
+  border-radius: 3px;
+  background-color: @emphasis;
+  border: 1px;
+  border-color: @cyan;
+}
+
+button selected {
+  padding: 5px;
+  border-radius: 3px;
+  background-color: @emphasis;
+}

@@ -1,0 +1,914 @@
+Apr 28 13:29 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 28 13:29 : exception: Failed to open '/home/shadow/.config/mpd/mpdstate': No such file or directory
+Apr 28 13:29 : update: added Silent Planet - When the End Began/02 - The New Eternity.mp3
+Apr 28 13:29 : update: added Silent Planet - When the End Began/10 - Firstborn (Ya'aburnee).mp3
+Apr 28 13:29 : update: added Silent Planet - When the End Began/05 - Visible Unseen.mp3
+Apr 28 13:29 : update: added Silent Planet - When the End Began/03 - Northern Fires (Guernica).mp3
+Apr 28 13:29 : update: added Silent Planet - When the End Began/11 - Lower Empire.mp3
+Apr 28 13:29 : update: added Silent Planet - When the End Began/13 - The Anatomy of Time (Babel).mp3
+Apr 28 13:29 : update: added Silent Planet - When the End Began/14 - Depths III.mp3
+Apr 28 13:29 : update: added Silent Planet - When the End Began/01 - Thus Spoke.mp3
+Apr 28 13:29 : update: added Silent Planet - When the End Began/12 - Look Inside_ Awake.mp3
+Apr 28 13:29 : update: added Silent Planet - When the End Began/09 - Share the Body.mp3
+Apr 28 13:29 : update: added Silent Planet - When the End Began/06 - Look Outside_ Dream.mp3
+Apr 28 13:29 : update: added Silent Planet - When the End Began/08 - In Absence.mp3
+Apr 28 13:29 : update: added Silent Planet - When the End Began/07 - Vanity of Sleep.mp3
+Apr 28 13:29 : update: added Silent Planet - When the End Began/04 - Afterdusk.mp3
+Apr 28 13:29 : update: added Silent Planet - Come Wind, Come Weather/05 - The Deluge.mp3
+Apr 28 13:29 : update: added Silent Planet - Come Wind, Come Weather/01 - Depths.mp3
+Apr 28 13:29 : update: added Silent Planet - Come Wind, Come Weather/02 - Everything That Rises Must Converge.mp3
+Apr 28 13:29 : update: added Silent Planet - Come Wind, Come Weather/04 - Emerge.mp3
+Apr 28 13:29 : update: added Silent Planet - Come Wind, Come Weather/03 - A Flood Strong Enough to Consume the House.mp3
+Apr 28 13:29 : update: added /Silent Planet - In Absence.mp3
+Apr 28 13:29 : update: added Bury Tomorrow - Earthbound/02 - Last Light.mp3
+Apr 28 13:29 : update: added Bury Tomorrow - Earthbound/09 - For Us.mp3
+Apr 28 13:29 : update: added Bury Tomorrow - Earthbound/08 - Memories.mp3
+Apr 28 13:29 : update: added Bury Tomorrow - Earthbound/10 - Bloodline.mp3
+Apr 28 13:29 : update: added Bury Tomorrow - Earthbound/01 - The Eternal.mp3
+Apr 28 13:29 : update: added Bury Tomorrow - Earthbound/04 - The Burden.mp3
+Apr 28 13:29 : update: added Bury Tomorrow - Earthbound/07 - 301.mp3
+Apr 28 13:29 : update: added Bury Tomorrow - Earthbound/03 - Earthbound.mp3
+Apr 28 13:29 : update: added Bury Tomorrow - Earthbound/06 - Restless & Cold.mp3
+Apr 28 13:29 : update: added Bury Tomorrow - Earthbound/05 - Cemetery.mp3
+Apr 28 13:29 : update: added Wage War - Deadweight/06 - Deadweight.mp3
+Apr 28 13:29 : update: added Wage War - Deadweight/05 - Witness.mp3
+Apr 28 13:29 : update: added Wage War - Deadweight/07 - Gravity.mp3
+Apr 28 13:29 : update: added Wage War - Deadweight/11 - My Grave Is Mine To Dig.mp3
+Apr 28 13:29 : update: added Wage War - Deadweight/03 - Don't Let Me Fade Away.mp3
+Apr 28 13:29 : update: added Wage War - Deadweight/02 - Southbound.mp3
+Apr 28 13:29 : update: added Wage War - Deadweight/09 - Indestructible.mp3
+Apr 28 13:29 : update: added Wage War - Deadweight/04 - Stitch.mp3
+Apr 28 13:29 : update: added Wage War - Deadweight/10 - Disdain.mp3
+Apr 28 13:29 : update: added Wage War - Deadweight/01 - Two Years.mp3
+Apr 28 13:29 : update: added Wage War - Deadweight/08 - Never Enough.mp3
+Apr 28 13:29 : update: added Wage War - Deadweight/12 - Johnny Cash.mp3
+Apr 28 13:29 : update: added /Convictions - Hurricane.mp3
+Apr 28 13:29 : update: added Phinehas - The Bridge Between/04 - A Pattern in Pain (Acoustic).mp3
+Apr 28 13:29 : update: added Phinehas - The Bridge Between/06 - Crowns (Acoustic).mp3
+Apr 28 13:29 : update: added Phinehas - The Bridge Between/01 - Panhammer.mp3
+Apr 28 13:29 : update: added Phinehas - The Bridge Between/02 - Well If the Earths Are Stopped, Then the Fox Faces the Hounds.mp3
+Apr 28 13:29 : update: added Phinehas - The Bridge Between/07 - The Wishing Well.mp3
+Apr 28 13:29 : update: added Phinehas - The Bridge Between/05 - Enkindler.mp3
+Apr 28 13:29 : update: added Phinehas - The Bridge Between/03 - David and the Gate.mp3
+Apr 28 13:29 : update: added /Fit For A King - A Greater Sense of Self.mp3
+Apr 28 13:29 : update: added For Today - Ekklesia/05 - Never Lose Sight of The Goals.mp3
+Apr 28 13:29 : update: added For Today - Ekklesia/03 - Redemption.mp3
+Apr 28 13:29 : update: added For Today - Ekklesia/08 - Ready For The Fight.mp3
+Apr 28 13:29 : update: added For Today - Ekklesia/09 - A Higher Standard.mp3
+Apr 28 13:29 : update: added For Today - Ekklesia/10 - With A Passion Burning.mp3
+Apr 28 13:29 : update: added For Today - Ekklesia/02 - Infantry.mp3
+Apr 28 13:29 : update: added For Today - Ekklesia/06 - Instrumental.mp3
+Apr 28 13:29 : update: added For Today - Ekklesia/07 - Words of Hope.mp3
+Apr 28 13:29 : update: added For Today - Ekklesia/01 - Intro.mp3
+Apr 28 13:29 : update: added For Today - Ekklesia/04 - Agape.mp3
+Apr 28 13:29 : update: added /Convictions - Earth__Born.mp3
+Apr 28 13:29 : update: added /Wolves At The Gate - Weary Ground.mp3
+Apr 28 13:29 : update: added Wage War - Pressure/01 - Who I Am.mp3
+Apr 28 13:29 : update: added Wage War - Pressure/12 - Will We Ever Learn.mp3
+Apr 28 13:29 : update: added Wage War - Pressure/05 - Me Against Myself.mp3
+Apr 28 13:29 : update: added Wage War - Pressure/06 - Hurt.mp3
+Apr 28 13:29 : update: added Wage War - Pressure/02 - Prison.mp3
+Apr 28 13:29 : update: added Wage War - Pressure/10 - Forget My Name.mp3
+Apr 28 13:29 : update: added Wage War - Pressure/08 - The Line.mp3
+Apr 28 13:29 : update: added Wage War - Pressure/11 - Take The Fight.mp3
+Apr 28 13:29 : update: added Wage War - Pressure/07 - Low.mp3
+Apr 28 13:29 : update: added Wage War - Pressure/04 - Ghost.mp3
+Apr 28 13:29 : update: added Wage War - Pressure/09 - Fury.mp3
+Apr 28 13:29 : update: added Wage War - Pressure/03 - Grave.mp3
+Apr 28 13:29 : update: added August Burns Red - Leveler/10 - 1_16_2011.mp3
+Apr 28 13:29 : update: added August Burns Red - Leveler/05 - Pangaea.mp3
+Apr 28 13:29 : update: added August Burns Red - Leveler/07 - 40 Nights.mp3
+Apr 28 13:29 : update: added August Burns Red - Leveler/06 - Carpe Diem.mp3
+Apr 28 13:29 : update: added August Burns Red - Leveler/02 - Internal Cannon.mp3
+Apr 28 13:29 : update: added August Burns Red - Leveler/03 - Divisions.mp3
+Apr 28 13:29 : update: added August Burns Red - Leveler/12 - Leveler.mp3
+Apr 28 13:29 : update: added August Burns Red - Leveler/04 - Cutting the Ties.mp3
+Apr 28 13:29 : update: added August Burns Red - Leveler/11 - Boys of Fall.mp3
+Apr 28 13:29 : update: added August Burns Red - Leveler/09 - Poor Millionaire.mp3
+Apr 28 13:29 : update: added August Burns Red - Leveler/08 - Salt & Light.mp3
+Apr 28 13:29 : update: added August Burns Red - Leveler/01 - Empire.mp3
+Apr 28 13:29 : update: added August Burns Red - Leveler (Deluxe Edition)/10 - 1_16_2011.mp3
+Apr 28 13:29 : update: added August Burns Red - Leveler (Deluxe Edition)/05 - Pangaea.mp3
+Apr 28 13:29 : update: added August Burns Red - Leveler (Deluxe Edition)/07 - 40 Nights.mp3
+Apr 28 13:29 : update: added August Burns Red - Leveler (Deluxe Edition)/06 - Carpe Diem.mp3
+Apr 28 13:29 : update: added August Burns Red - Leveler (Deluxe Edition)/14 - Pangaea (Performed by Bells).mp3
+Apr 28 13:29 : update: added August Burns Red - Leveler (Deluxe Edition)/15 - Boys of Fall (Performed by Zachary Veilleux).mp3
+Apr 28 13:29 : update: added August Burns Red - Leveler (Deluxe Edition)/02 - Internal Cannon.mp3
+Apr 28 13:29 : update: added August Burns Red - Leveler (Deluxe Edition)/03 - Divisions.mp3
+Apr 28 13:29 : update: added August Burns Red - Leveler (Deluxe Edition)/12 - Leveler.mp3
+Apr 28 13:29 : update: added August Burns Red - Leveler (Deluxe Edition)/04 - Cutting the Ties.mp3
+Apr 28 13:29 : update: added August Burns Red - Leveler (Deluxe Edition)/11 - Boys of Fall.mp3
+Apr 28 13:29 : update: added August Burns Red - Leveler (Deluxe Edition)/09 - Poor Millionaire.mp3
+Apr 28 13:29 : update: added August Burns Red - Leveler (Deluxe Edition)/08 - Salt & Light.mp3
+Apr 28 13:29 : update: added August Burns Red - Leveler (Deluxe Edition)/01 - Empire.mp3
+Apr 28 13:29 : update: added August Burns Red - Leveler (Deluxe Edition)/16 - Empire (Midi).mp3
+Apr 28 13:29 : update: added August Burns Red - Leveler (Deluxe Edition)/13 - Internal Cannon (Acoustic).mp3
+Apr 28 13:29 : update: added /August Burns Red - What Child Is This_ (Greensleeves).mp3
+Apr 28 13:29 : update: added Wolves At The Gate - Pulled from the Deep - Demo/02 - My Trials To Your Agonies, They Do Not Compare.mp3
+Apr 28 13:29 : update: added Wolves At The Gate - Pulled from the Deep - Demo/03 - My Ransomed Soul.mp3
+Apr 28 13:29 : update: added Wolves At The Gate - Pulled from the Deep - Demo/01 - Pulled From the Deep.mp3
+Apr 28 13:29 : update: added /Fit For A King - Backbreaker.mp3
+Apr 28 13:29 : update: added August Burns Red - August Burns Red Presents_ Sleddin' Hill, A Holiday Album/08 - Sleddin' Hill.mp3
+Apr 28 13:29 : update: added August Burns Red - August Burns Red Presents_ Sleddin' Hill, A Holiday Album/04 - God Rest Ye Merry Gentlemen.mp3
+Apr 28 13:29 : update: added August Burns Red - August Burns Red Presents_ Sleddin' Hill, A Holiday Album/01 - Flurries.mp3
+Apr 28 13:29 : update: added August Burns Red - August Burns Red Presents_ Sleddin' Hill, A Holiday Album/11 - O Come O Come Emmanuel.mp3
+Apr 28 13:29 : update: added August Burns Red - August Burns Red Presents_ Sleddin' Hill, A Holiday Album/14 - Dance of the Sugar Plum Fairy.mp3
+Apr 28 13:29 : update: added August Burns Red - August Burns Red Presents_ Sleddin' Hill, A Holiday Album/06 - Oh Holy Night.mp3
+Apr 28 13:29 : update: added August Burns Red - August Burns Red Presents_ Sleddin' Hill, A Holiday Album/03 - Sleigh Ride.mp3
+Apr 28 13:29 : update: added August Burns Red - August Burns Red Presents_ Sleddin' Hill, A Holiday Album/13 - We Wish You a Merry Christmas.mp3
+Apr 28 13:29 : update: added August Burns Red - August Burns Red Presents_ Sleddin' Hill, A Holiday Album/07 - Rudolph the Red Nosed Reindeer.mp3
+Apr 28 13:29 : update: added August Burns Red - August Burns Red Presents_ Sleddin' Hill, A Holiday Album/09 - Little Drummer Boy.mp3
+Apr 28 13:29 : update: added August Burns Red - August Burns Red Presents_ Sleddin' Hill, A Holiday Album/15 - Joy to the World.mp3
+Apr 28 13:29 : update: added August Burns Red - August Burns Red Presents_ Sleddin' Hill, A Holiday Album/02 - Frosty the Snowman.mp3
+Apr 28 13:29 : update: added August Burns Red - August Burns Red Presents_ Sleddin' Hill, A Holiday Album/05 - Jingle Bells.mp3
+Apr 28 13:29 : update: added August Burns Red - August Burns Red Presents_ Sleddin' Hill, A Holiday Album/12 - Carol of the Bells.mp3
+Apr 28 13:29 : update: added August Burns Red - August Burns Red Presents_ Sleddin' Hill, A Holiday Album/10 - Winter Wonderland.mp3
+Apr 28 13:29 : update: added August Burns Red - Messengers/07 - The Eleventh Hour.mp3
+Apr 28 13:29 : update: added August Burns Red - Messengers/03 - Back Burner.mp3
+Apr 28 13:29 : update: added August Burns Red - Messengers/09 - Black Sheep.mp3
+Apr 28 13:29 : update: added August Burns Red - Messengers/04 - The Blinding Light.mp3
+Apr 28 13:29 : update: added August Burns Red - Messengers/06 - Vital Signs.mp3
+Apr 28 13:29 : update: added August Burns Red - Messengers/08 - The Balance.mp3
+Apr 28 13:29 : update: added August Burns Red - Messengers/01 - Truth of a Liar.mp3
+Apr 28 13:29 : update: added August Burns Red - Messengers/10 - An American Dream.mp3
+Apr 28 13:29 : update: added August Burns Red - Messengers/11 - Redemption.mp3
+Apr 28 13:29 : update: added August Burns Red - Messengers/05 - Composure.mp3
+Apr 28 13:29 : update: added August Burns Red - Messengers/02 - Up Against the Ropes.mp3
+Apr 28 13:29 : update: added Silent Planet - The Night God Slept/04 - Native Blood.mp3
+Apr 28 13:29 : update: added Silent Planet - The Night God Slept/09 - To Thirst for the Sea.mp3
+Apr 28 13:29 : update: added Silent Planet - The Night God Slept/02 - XX (City Grave).mp3
+Apr 28 13:29 : update: added Silent Planet - The Night God Slept/07 - Darkstrand (Hibakusha).mp3
+Apr 28 13:29 : update: added Silent Planet - The Night God Slept/03 - I Drowned in the Desert.mp3
+Apr 28 13:29 : update: added Silent Planet - The Night God Slept/11 - Depths II.mp3
+Apr 28 13:29 : update: added Silent Planet - The Night God Slept/01 - The Well.mp3
+Apr 28 13:29 : update: added Silent Planet - The Night God Slept/08 - First Mother (Lilith).mp3
+Apr 28 13:29 : update: added Silent Planet - The Night God Slept/10 - Wasteland.mp3
+Apr 28 13:29 : update: added Silent Planet - The Night God Slept/06 - Firstwake.mp3
+Apr 28 13:29 : update: added Silent Planet - The Night God Slept/05 - Tiny Hands (Au Revoir).mp3
+Apr 28 13:29 : update: added Phinehas - The Last Word Is Yours to Speak/13 - WWII.mp3
+Apr 28 13:29 : update: added Phinehas - The Last Word Is Yours to Speak/05 - Twisted.mp3
+Apr 28 13:29 : update: added Phinehas - The Last Word Is Yours to Speak/06 - De el Quatro.mp3
+Apr 28 13:29 : update: added Phinehas - The Last Word Is Yours to Speak/09 - Dyson Sphere.mp3
+Apr 28 13:29 : update: added Phinehas - The Last Word Is Yours to Speak/03 - The Deepest of Graves.mp3
+Apr 28 13:29 : update: added Phinehas - The Last Word Is Yours to Speak/12 - From a Burning Sun.mp3
+Apr 28 13:29 : update: added Phinehas - The Last Word Is Yours to Speak/01 - Throes.mp3
+Apr 28 13:29 : update: added Phinehas - The Last Word Is Yours to Speak/11 - Salting the Mine.mp3
+Apr 28 13:29 : update: added Phinehas - The Last Word Is Yours to Speak/07 - Out of the Dust.mp3
+Apr 28 13:29 : update: added Phinehas - The Last Word Is Yours to Speak/02 - Fleshkiller.mp3
+Apr 28 13:29 : update: added Phinehas - The Last Word Is Yours to Speak/10 - Manipulator's Wire.mp3
+Apr 28 13:29 : update: added Phinehas - The Last Word Is Yours to Speak/08 - The Blessing and the Curse.mp3
+Apr 28 13:29 : update: added Phinehas - The Last Word Is Yours to Speak/04 - Blood on My Knuckles.mp3
+Apr 28 13:29 : update: added /Fit For A King - Breaking the Mirror.mp3
+Apr 28 13:29 : update: added /Bury Tomorrow - Cannibal.mp3
+Apr 28 13:29 : update: added /Bury Tomorrow - Better Below.mp3
+Apr 28 13:29 : update: added /Fit For A King - God Rest Ye Merry Gentlemen.mp3
+Apr 28 13:29 : update: added August Burns Red - Found In Far Away Places (Instrumental Edition)/01 - The Wake (Instrumental).mp3
+Apr 28 13:29 : update: added August Burns Red - Found In Far Away Places (Instrumental Edition)/03 - Identity (Instrumental).mp3
+Apr 28 13:29 : update: added August Burns Red - Found In Far Away Places (Instrumental Edition)/10 - Twenty-One Grams (Instrumental).mp3
+Apr 28 13:29 : update: added August Burns Red - Found In Far Away Places (Instrumental Edition)/07 - Everlasting Ending (Instrumental).mp3
+Apr 28 13:29 : update: added August Burns Red - Found In Far Away Places (Instrumental Edition)/08 - Broken Promises (Instrumental).mp3
+Apr 28 13:29 : update: added August Burns Red - Found In Far Away Places (Instrumental Edition)/09 - Blackwood (Instrumental).mp3
+Apr 28 13:29 : update: added August Burns Red - Found In Far Away Places (Instrumental Edition)/02 - Martyr (Instrumental).mp3
+Apr 28 13:29 : update: added August Burns Red - Found In Far Away Places (Instrumental Edition)/12 - Marathon (Instrumental).mp3
+Apr 28 13:29 : update: added August Burns Red - Found In Far Away Places (Instrumental Edition)/06 - Majoring In The Minors (Instrumental).mp3
+Apr 28 13:29 : update: added August Burns Red - Found In Far Away Places (Instrumental Edition)/11 - Vanguard (Instrumental).mp3
+Apr 28 13:29 : update: added August Burns Red - Found In Far Away Places (Instrumental Edition)/04 - Separating The Seas (Instrumental).mp3
+Apr 28 13:29 : update: added August Burns Red - Found In Far Away Places (Instrumental Edition)/05 - Ghosts (Instrumental).mp3
+Apr 28 13:29 : update: added /Silent Planet - Vanity of Sleep.mp3
+Apr 28 13:29 : update: added Wolves At The Gate - Types & Shadows/01 - Asleep.mp3
+Apr 28 13:29 : update: added Wolves At The Gate - Types & Shadows/08 - Lowly.mp3
+Apr 28 13:29 : update: added Wolves At The Gate - Types & Shadows/03 - War in the Time of Peace.mp3
+Apr 28 13:29 : update: added Wolves At The Gate - Types & Shadows/11 - Chasing the Wind.mp3
+Apr 28 13:29 : update: added Wolves At The Gate - Types & Shadows/10 - Convalesce.mp3
+Apr 28 13:29 : update: added Wolves At The Gate - Types & Shadows/06 - Fountain.mp3
+Apr 28 13:29 : update: added Wolves At The Gate - Types & Shadows/04 - Anathema.mp3
+Apr 28 13:29 : update: added Wolves At The Gate - Types & Shadows/09 - Broken Bones.mp3
+Apr 28 13:29 : update: added Wolves At The Gate - Types & Shadows/12 - Hindsight.mp3
+Apr 28 13:29 : update: added Wolves At The Gate - Types & Shadows/02 - Flickering Flame.mp3
+Apr 28 13:29 : update: added Wolves At The Gate - Types & Shadows/07 - Weary Ground.mp3
+Apr 28 13:29 : update: added Wolves At The Gate - Types & Shadows/13 - Grave Digger.mp3
+Apr 28 13:29 : update: added Wolves At The Gate - Types & Shadows/05 - The Aftermath.mp3
+Apr 28 13:29 : update: added /Wage War - Johnny Cash (Stripped).mp3
+Apr 28 13:29 : update: added Convictions - I Will Become/09 - Healing Hands.mp3
+Apr 28 13:29 : update: added Convictions - I Will Become/02 - House of Lies.mp3
+Apr 28 13:29 : update: added Convictions - I Will Become/04 - Glaciers.mp3
+Apr 28 13:29 : update: added Convictions - I Will Become/03 - Brothers Blood.mp3
+Apr 28 13:29 : update: added Convictions - I Will Become/06 - Serotonin.mp3
+Apr 28 13:29 : update: added Convictions - I Will Become/10 - Dark Roots.mp3
+Apr 28 13:29 : update: added Convictions - I Will Become/07 - Clouded Mind.mp3
+Apr 28 13:29 : update: added Convictions - I Will Become/11 - I Will Become.mp3
+Apr 28 13:29 : update: added Convictions - I Will Become/08 - The Mourning You Changed.mp3
+Apr 28 13:29 : update: added Convictions - I Will Become/05 - Charlatan.mp3
+Apr 28 13:29 : update: added Convictions - I Will Become/01 - The Void Remains.mp3
+Apr 28 13:29 : update: added /Convictions - The Art of Breathing.mp3
+Apr 28 13:29 : update: added Memphis May Fire - Challenger/04 - Red In Tooth & Claw.mp3
+Apr 28 13:29 : update: added Memphis May Fire - Challenger/06 - Legacy.mp3
+Apr 28 13:29 : update: added Memphis May Fire - Challenger/01 - Without Walls.mp3
+Apr 28 13:29 : update: added Memphis May Fire - Challenger/07 - Miles Away (feat. Kellin Quinn).mp3
+Apr 28 13:29 : update: added Memphis May Fire - Challenger/10 - Generation_ Hate.mp3
+Apr 28 13:29 : update: added Memphis May Fire - Challenger/11 - Vessels.mp3
+Apr 28 13:29 : update: added Memphis May Fire - Challenger/08 - Jezebel.mp3
+Apr 28 13:29 : update: added Memphis May Fire - Challenger/03 - Prove Me Right.mp3
+Apr 28 13:29 : update: added Memphis May Fire - Challenger/09 - Losing Sight (feat. Danny Worsnop).mp3
+Apr 28 13:29 : update: added Memphis May Fire - Challenger/05 - Vices.mp3
+Apr 28 13:29 : update: added Memphis May Fire - Challenger/02 - Alive In The Lights.mp3
+Apr 28 13:29 : update: added August Burns Red - Looks Fragile After All - EP/04 - You Should Be Taking Flight Right Now.mp3
+Apr 28 13:29 : update: added August Burns Red - Looks Fragile After All - EP/01 - Background Music to Her Awakening.mp3
+Apr 28 13:29 : update: added August Burns Red - Looks Fragile After All - EP/05 - Accidental Shot Heard 'Round the World.mp3
+Apr 28 13:29 : update: added August Burns Red - Looks Fragile After All - EP/02 - Missing This Opportunity.mp3
+Apr 28 13:29 : update: added August Burns Red - Looks Fragile After All - EP/03 - Glory Thrives.mp3
+Apr 28 13:29 : update: added /Fit For A King - When Everything Means Nothing.mp3
+Apr 28 13:29 : update: added /August Burns Red - Ocean of Apathy (Reprise).mp3
+Apr 28 13:29 : update: added /Silent Planet - Shark Week (B-Side).mp3
+Apr 28 13:29 : update: added Alive in Color - To Stay Alive/03 - Been Lost.mp3
+Apr 28 13:29 : update: added Alive in Color - To Stay Alive/05 - Into the Desert.mp3
+Apr 28 13:29 : update: added Alive in Color - To Stay Alive/02 - Say Anything.mp3
+Apr 28 13:29 : update: added Alive in Color - To Stay Alive/09 - Abandoned Youth.mp3
+Apr 28 13:29 : update: added Alive in Color - To Stay Alive/04 - Miss Direction.mp3
+Apr 28 13:29 : update: added Alive in Color - To Stay Alive/07 - Awake in Me.mp3
+Apr 28 13:29 : update: added Alive in Color - To Stay Alive/10 - Out of the Ocean.mp3
+Apr 28 13:29 : update: added Alive in Color - To Stay Alive/06 - To Stay Alive.mp3
+Apr 28 13:29 : update: added Alive in Color - To Stay Alive/01 - Deadicated.mp3
+Apr 28 13:29 : update: added Alive in Color - To Stay Alive/08 - Home.mp3
+Apr 28 13:29 : update: added /Memphis May Fire - Miles Away (Acoustic) [feat. Kellin Quinn].mp3
+Apr 28 13:29 : update: added /Bury Tomorrow - Choke.mp3
+Apr 28 13:29 : update: added /August Burns Red - Defender.mp3
+Apr 28 13:29 : update: added August Burns Red - Phantom Anthem/10 - Dangerous.mp3
+Apr 28 13:29 : update: added August Burns Red - Phantom Anthem/08 - Generations.mp3
+Apr 28 13:29 : update: added August Burns Red - Phantom Anthem/03 - The Frost.mp3
+Apr 28 13:29 : update: added August Burns Red - Phantom Anthem/01 - King Of Sorrow.mp3
+Apr 28 13:29 : update: added August Burns Red - Phantom Anthem/06 - Quake.mp3
+Apr 28 13:29 : update: added August Burns Red - Phantom Anthem/02 - Hero Of The Half Truth.mp3
+Apr 28 13:29 : update: added August Burns Red - Phantom Anthem/11 - Carbon Copy.mp3
+Apr 28 13:29 : update: added August Burns Red - Phantom Anthem/07 - Coordinates.mp3
+Apr 28 13:29 : update: added August Burns Red - Phantom Anthem/09 - Float.mp3
+Apr 28 13:29 : update: added August Burns Red - Phantom Anthem/04 - Lifeline.mp3
+Apr 28 13:29 : update: added August Burns Red - Phantom Anthem/05 - Invisible Enemy.mp3
+Apr 28 13:29 : update: added /Fit For A King - Tower of Pain.mp3
+Apr 28 13:29 : update: added August Burns Red - Found In Far Away Places (Commentary)/07 - Everlasting Ending (Commentary).mp3
+Apr 28 13:29 : update: added August Burns Red - Found In Far Away Places (Commentary)/08 - Broken Promises (Commentary).mp3
+Apr 28 13:29 : update: added August Burns Red - Found In Far Away Places (Commentary)/05 - Ghosts (Commentary).mp3
+Apr 28 13:29 : update: added August Burns Red - Found In Far Away Places (Commentary)/06 - Majoring In The Minors (Commentary).mp3
+Apr 28 13:29 : update: added August Burns Red - Found In Far Away Places (Commentary)/11 - Vanguard (Commentary).mp3
+Apr 28 13:29 : update: added August Burns Red - Found In Far Away Places (Commentary)/02 - Martyr (Commentary).mp3
+Apr 28 13:29 : update: added August Burns Red - Found In Far Away Places (Commentary)/03 - Identity (Commentary).mp3
+Apr 28 13:29 : update: added August Burns Red - Found In Far Away Places (Commentary)/09 - Blackwood (Commentary).mp3
+Apr 28 13:29 : update: added August Burns Red - Found In Far Away Places (Commentary)/04 - Seperating The Seas (Commentary).mp3
+Apr 28 13:29 : update: added August Burns Red - Found In Far Away Places (Commentary)/10 - Twenty-One Grams (Commentary).mp3
+Apr 28 13:29 : update: added August Burns Red - Found In Far Away Places (Commentary)/01 - The Wake (Commentary).mp3
+Apr 28 13:29 : update: added /Phinehas - Hell Below.mp3
+Apr 28 13:29 : update: added /Silent Planet - Orphan.mp3
+Apr 28 13:29 : update: added Silent Planet - XX (City Grave) _ Wasteland Redux/01 - XX (City Grave) Redux.mp3
+Apr 28 13:29 : update: added Silent Planet - XX (City Grave) _ Wasteland Redux/02 - Wasteland Redux.mp3
+Apr 28 13:29 : update: added Fit For A King - Dark Skies/08 - Tower of Pain.mp3
+Apr 28 13:29 : update: added Fit For A King - Dark Skies/04 - Anthem of the Defeated.mp3
+Apr 28 13:29 : update: added Fit For A King - Dark Skies/02 - The Price of Agony.mp3
+Apr 28 13:29 : update: added Fit For A King - Dark Skies/06 - Youth _ Division.mp3
+Apr 28 13:29 : update: added Fit For A King - Dark Skies/01 - Engraved.mp3
+Apr 28 13:29 : update: added Fit For A King - Dark Skies/03 - Backbreaker.mp3
+Apr 28 13:29 : update: added Fit For A King - Dark Skies/09 - Debts of the Soul.mp3
+Apr 28 13:29 : update: added Fit For A King - Dark Skies/07 - Shattered Glass.mp3
+Apr 28 13:29 : update: added Fit For A King - Dark Skies/10 - Oblivion.mp3
+Apr 28 13:29 : update: added Fit For A King - Dark Skies/05 - When Everything Means Nothing.mp3
+Apr 28 13:29 : update: added Silent Planet - Everything Was Sound (Instrumental)/09 - C'est Tout Pardonner (Instrumental).mp3
+Apr 28 13:29 : update: added Silent Planet - Everything Was Sound (Instrumental)/13 - Inhabit the Wound (Instrumental).mp3
+Apr 28 13:29 : update: added Silent Planet - Everything Was Sound (Instrumental)/02 - Psychescape (Instrumental).mp3
+Apr 28 13:29 : update: added Silent Planet - Everything Was Sound (Instrumental)/01 - Inherit the Earth (Instrumental).mp3
+Apr 28 13:29 : update: added Silent Planet - Everything Was Sound (Instrumental)/06 - Panic Room (Instrumental).mp3
+Apr 28 13:29 : update: added Silent Planet - Everything Was Sound (Instrumental)/07 - REDIVIDEЯ (Instrumental).mp3
+Apr 28 13:29 : update: added Silent Planet - Everything Was Sound (Instrumental)/10 - Orphan (Instrumental).mp3
+Apr 28 13:29 : update: added Silent Planet - Everything Was Sound (Instrumental)/03 - Dying In Circles (Instrumental).mp3
+Apr 28 13:29 : update: added Silent Planet - Everything Was Sound (Instrumental)/11 - No Place to Breathe (Instrumental).mp3
+Apr 28 13:29 : update: added Silent Planet - Everything Was Sound (Instrumental)/05 - Tout Comprendre (Instrumental).mp3
+Apr 28 13:29 : update: added Silent Planet - Everything Was Sound (Instrumental)/08 - Nervosa (Instrumental).mp3
+Apr 28 13:29 : update: added Silent Planet - Everything Was Sound (Instrumental)/04 - Understanding Love as Loss (Instrumental).mp3
+Apr 28 13:29 : update: added Silent Planet - Everything Was Sound (Instrumental)/12 - First Father (Instrumental).mp3
+Apr 28 13:29 : update: added For Today - Portraits/07 - Benedictus (Song of Zechariah).mp3
+Apr 28 13:29 : update: added For Today - Portraits/03 - Nicodemus (The Seeker).mp3
+Apr 28 13:29 : update: added For Today - Portraits/08 - Ezekiel (The Visionary).mp3
+Apr 28 13:29 : update: added For Today - Portraits/09 - Isaiah (The Willing).mp3
+Apr 28 13:29 : update: added For Today - Portraits/04 - Joel (The Watchman).mp3
+Apr 28 13:29 : update: added For Today - Portraits/10 - Talmidim (The Servants).mp3
+Apr 28 13:29 : update: added For Today - Portraits/01 - Immanuel (The Challenger).mp3
+Apr 28 13:29 : update: added For Today - Portraits/02 - Saul of Tarsus (The Messenger).mp3
+Apr 28 13:29 : update: added For Today - Portraits/06 - Elijah (The Forerunner).mp3
+Apr 28 13:29 : update: added For Today - Portraits/05 - Immanuel (The Redeemer).mp3
+Apr 28 13:29 : update: added Bury Tomorrow - Runes (Track Commentary)/03 - The Torch (Track Commentary).mp3
+Apr 28 13:29 : update: added Bury Tomorrow - Runes (Track Commentary)/13 - Last of the Ice (Track Commentary).mp3
+Apr 28 13:29 : update: added Bury Tomorrow - Runes (Track Commentary)/11 - Divine Breath (Track Commentary).mp3
+Apr 28 13:29 : update: added Bury Tomorrow - Runes (Track Commentary)/06 - Darker Water (Track Commentary).mp3
+Apr 28 13:29 : update: added Bury Tomorrow - Runes (Track Commentary)/04 - Watcher (Track Commentary).mp3
+Apr 28 13:29 : update: added Bury Tomorrow - Runes (Track Commentary)/09 - Year of the Harvest (Track Commentary).mp3
+Apr 28 13:29 : update: added Bury Tomorrow - Runes (Track Commentary)/01 - Man on Fire (Track Commentary).mp3
+Apr 28 13:29 : update: added Bury Tomorrow - Runes (Track Commentary)/08 - Under the Sun (Track Commentary).mp3
+Apr 28 13:29 : update: added Bury Tomorrow - Runes (Track Commentary)/12 - Of Glory (Track Commentary).mp3
+Apr 28 13:29 : update: added Bury Tomorrow - Runes (Track Commentary)/10 - Garden of Thorns (Track Commentary).mp3
+Apr 28 13:29 : update: added Bury Tomorrow - Runes (Track Commentary)/02 - Shadow, a Creator (Track Commentary).mp3
+Apr 28 13:29 : update: added Bury Tomorrow - Runes (Track Commentary)/07 - Another Journey (Track Commentary).mp3
+Apr 28 13:29 : update: added Bury Tomorrow - Runes (Track Commentary)/05 - Our Gift (Track Commentary).mp3
+Apr 28 13:29 : update: added /Wage War - Low.mp3
+Apr 28 13:29 : update: added /August Burns Red - Paramount.mp3
+Apr 28 13:29 : update: added For Today - Wake/03 - Forced into Fire.mp3
+Apr 28 13:29 : update: added For Today - Wake/01 - No Truth, No Sacrifice.mp3
+Apr 28 13:29 : update: added For Today - Wake/04 - Deserter.mp3
+Apr 28 13:29 : update: added For Today - Wake/02 - Broken Lens.mp3
+Apr 28 13:29 : update: added For Today - Wake/06 - Wasteland.mp3
+Apr 28 13:29 : update: added For Today - Wake/10 - Time and Tide.mp3
+Apr 28 13:29 : update: added For Today - Wake/09 - Flooded Earth.mp3
+Apr 28 13:29 : update: added For Today - Wake/07 - Hopeless Ambition.mp3
+Apr 28 13:29 : update: added For Today - Wake/11 - Two Brothers.mp3
+Apr 28 13:29 : update: added For Today - Wake/05 - Bitter Roots.mp3
+Apr 28 13:29 : update: added For Today - Wake/12 - Without You.mp3
+Apr 28 13:29 : update: added For Today - Wake/08 - Determination.mp3
+Apr 28 13:29 : update: added Silent Planet - Lastsleep (1944 - 1946)/04 - To Caves.mp3
+Apr 28 13:29 : update: added Silent Planet - Lastsleep (1944 - 1946)/05 - Wasteland (Vechnost).mp3
+Apr 28 13:29 : update: added Silent Planet - Lastsleep (1944 - 1946)/01 - Tiny Hands (Au Revoir).mp3
+Apr 28 13:29 : update: added Silent Planet - Lastsleep (1944 - 1946)/03 - Darkstrand (Hibakusha).mp3
+Apr 28 13:29 : update: added Silent Planet - Lastsleep (1944 - 1946)/02 - From Tides.mp3
+Apr 28 13:29 : update: added Wolves At The Gate - Captors/05 - In Your Wake.mp3
+Apr 28 13:29 : update: added Wolves At The Gate - Captors/11 - Man Of Sorrows.mp3
+Apr 28 13:29 : update: added Wolves At The Gate - Captors/01 - The Harvest.mp3
+Apr 28 13:29 : update: added Wolves At The Gate - Captors/02 - Awaken.mp3
+Apr 28 13:29 : update: added Wolves At The Gate - Captors/08 - Amnesty.mp3
+Apr 28 13:29 : update: added Wolves At The Gate - Captors/10 - Through The Night.mp3
+Apr 28 13:29 : update: added Wolves At The Gate - Captors/03 - Morning Star.mp3
+Apr 28 13:29 : update: added Wolves At The Gate - Captors/07 - Step Out To The Water.mp3
+Apr 28 13:29 : update: added Wolves At The Gate - Captors/04 - Dead Man.mp3
+Apr 28 13:29 : update: added Wolves At The Gate - Captors/06 - Slaves.mp3
+Apr 28 13:29 : update: added Wolves At The Gate - Captors/09 - Safeguards.mp3
+Apr 28 13:29 : update: added Fit For A King - Deathgrip/05 - Disease.mp3
+Apr 28 13:29 : update: added Fit For A King - Deathgrip/10 - Stacking Bodies (feat. Levi Benton).mp3
+Apr 28 13:29 : update: added Fit For A King - Deathgrip/08 - We Are All Lost.mp3
+Apr 28 13:29 : update: added Fit For A King - Deathgrip/06 - Shadows & Echoes.mp3
+Apr 28 13:29 : update: added Fit For A King - Deathgrip/03 - Dead Memory (feat. Jake Luhrs).mp3
+Apr 28 13:29 : update: added Fit For A King - Deathgrip/09 - Unclaimed, Unloved.mp3
+Apr 28 13:29 : update: added Fit For A King - Deathgrip/07 - More Than Nameless.mp3
+Apr 28 13:29 : update: added Fit For A King - Deathgrip/11 - Deathgrip.mp3
+Apr 28 13:29 : update: added Fit For A King - Deathgrip/02 - Pissed Off.mp3
+Apr 28 13:29 : update: added Fit For A King - Deathgrip/04 - Cold Room.mp3
+Apr 28 13:29 : update: added Fit For A King - Deathgrip/01 - The End's Beginning.mp3
+Apr 28 13:29 : update: added /Wage War - Gravity (Stripped).mp3
+Apr 28 13:29 : update: added /Wolves At The Gate - Asleep.mp3
+Apr 28 13:29 : update: added August Burns Red - Thrill Seeker/03 - Endorphins.mp3
+Apr 28 13:29 : update: added August Burns Red - Thrill Seeker/05 - Barbarian.mp3
+Apr 28 13:29 : update: added August Burns Red - Thrill Seeker/08 - Consumer.mp3
+Apr 28 13:29 : update: added August Burns Red - Thrill Seeker/07 - A Wish Full of Dreams.mp3
+Apr 28 13:29 : update: added August Burns Red - Thrill Seeker/10 - Eve of the End.mp3
+Apr 28 13:29 : update: added August Burns Red - Thrill Seeker/02 - Speech Impediment.mp3
+Apr 28 13:29 : update: added August Burns Red - Thrill Seeker/11 - The Seventh Trumpet.mp3
+Apr 28 13:29 : update: added August Burns Red - Thrill Seeker/06 - The Reflective Property.mp3
+Apr 28 13:29 : update: added August Burns Red - Thrill Seeker/04 - Too Late for Roses.mp3
+Apr 28 13:29 : update: added August Burns Red - Thrill Seeker/01 - Your Little Suburbia Is in Ruins.mp3
+Apr 28 13:29 : update: added August Burns Red - Thrill Seeker/09 - A Shot Below the Belt.mp3
+Apr 28 13:29 : update: added /Fit For A King - Pissed Off.mp3
+Apr 28 13:29 : update: added Convictions - I Am Nothing/05 - Awaiting Reply (When All We Have Left Is Silence).mp3
+Apr 28 13:29 : update: added Convictions - I Am Nothing/03 - Eros.mp3
+Apr 28 13:29 : update: added Convictions - I Am Nothing/08 - Reflections.mp3
+Apr 28 13:29 : update: added Convictions - I Am Nothing/07 - Counterfeit.mp3
+Apr 28 13:29 : update: added Convictions - I Am Nothing/04 - 9_27_06.mp3
+Apr 28 13:29 : update: added Convictions - I Am Nothing/09 - I Am Nothing.mp3
+Apr 28 13:29 : update: added Convictions - I Am Nothing/06 - Thomas (feat. Matty Mullins).mp3
+Apr 28 13:29 : update: added Convictions - I Am Nothing/01 - The Void.mp3
+Apr 28 13:29 : update: added Convictions - I Am Nothing/02 - Burdens.mp3
+Apr 28 13:29 : update: added August Burns Red - Winter Wilderness EP/01 - Avalanche.mp3
+Apr 28 13:29 : update: added August Burns Red - Winter Wilderness EP/05 - What Child Is This_ (Greensleeves).mp3
+Apr 28 13:29 : update: added August Burns Red - Winter Wilderness EP/04 - Home Alone Theme.mp3
+Apr 28 13:29 : update: added August Burns Red - Winter Wilderness EP/06 - Last Christmas.mp3
+Apr 28 13:29 : update: added August Burns Red - Winter Wilderness EP/02 - It's The Most Wonderful Time Of The Year.mp3
+Apr 28 13:29 : update: added August Burns Red - Winter Wilderness EP/03 - Winter Wilderness.mp3
+Apr 28 13:29 : update: added Wage War - Blueprints/09 - Spineless.mp3
+Apr 28 13:29 : update: added Wage War - Blueprints/08 - Enemy.mp3
+Apr 28 13:29 : update: added Wage War - Blueprints/03 - Alive.mp3
+Apr 28 13:29 : update: added Wage War - Blueprints/10 - Basic Hate.mp3
+Apr 28 13:29 : update: added Wage War - Blueprints/07 - Deadlocked.mp3
+Apr 28 13:29 : update: added Wage War - Blueprints/01 - Hollow.mp3
+Apr 28 13:29 : update: added Wage War - Blueprints/04 - Blueprints.mp3
+Apr 28 13:29 : update: added Wage War - Blueprints/06 - The River.mp3
+Apr 28 13:29 : update: added Wage War - Blueprints/05 - Youngblood.mp3
+Apr 28 13:29 : update: added Wage War - Blueprints/11 - Desperate.mp3
+Apr 28 13:29 : update: added Wage War - Blueprints/02 - Twenty One.mp3
+Apr 28 13:29 : update: added /Bury Tomorrow - The Age.mp3
+Apr 28 13:29 : update: added Bury Tomorrow - Black Flame (Deluxe)/10 - Peacekeeper.mp3
+Apr 28 13:29 : update: added Bury Tomorrow - Black Flame (Deluxe)/13 - No Less Violent (Live in London).mp3
+Apr 28 13:29 : update: added Bury Tomorrow - Black Flame (Deluxe)/09 - Overcast.mp3
+Apr 28 13:29 : update: added Bury Tomorrow - Black Flame (Deluxe)/02 - Adrenaline.mp3
+Apr 28 13:29 : update: added Bury Tomorrow - Black Flame (Deluxe)/04 - My Revenge.mp3
+Apr 28 13:29 : update: added Bury Tomorrow - Black Flame (Deluxe)/14 - The Age (Live in London).mp3
+Apr 28 13:29 : update: added Bury Tomorrow - Black Flame (Deluxe)/01 - No Less Violent.mp3
+Apr 28 13:29 : update: added Bury Tomorrow - Black Flame (Deluxe)/12 - Black Flame (Live in London).mp3
+Apr 28 13:29 : update: added Bury Tomorrow - Black Flame (Deluxe)/08 - Stormbringer.mp3
+Apr 28 13:29 : update: added Bury Tomorrow - Black Flame (Deluxe)/03 - Black Flame.mp3
+Apr 28 13:29 : update: added Bury Tomorrow - Black Flame (Deluxe)/06 - Knife of Gold.mp3
+Apr 28 13:29 : update: added Bury Tomorrow - Black Flame (Deluxe)/07 - The Age.mp3
+Apr 28 13:29 : update: added Bury Tomorrow - Black Flame (Deluxe)/05 - More Than Mortal.mp3
+Apr 28 13:29 : update: added Bury Tomorrow - Black Flame (Deluxe)/11 - Glasswalk.mp3
+Apr 28 13:29 : update: added /Silent Planet - Psychescape.mp3
+Apr 28 13:29 : update: added /Wage War - Me Against Myself.mp3
+Apr 28 13:29 : update: added /Fit For A King - The Price of Agony.mp3
+Apr 28 13:29 : update: added /Convictions - Sharks.mp3
+Apr 28 13:29 : update: added Phinehas - Rebel/09 - DiShon.mp3
+Apr 28 13:29 : update: added Phinehas - Rebel/14 - Down.mp3
+Apr 28 13:29 : update: added Phinehas - Rebel/19 - Learning To Play.mp3
+Apr 28 13:29 : update: added Phinehas - Rebel/06 - Precious One.mp3
+Apr 28 13:29 : update: added Phinehas - Rebel/16 - Barbie Doll.mp3
+Apr 28 13:29 : update: added Phinehas - Rebel/05 - Kick It Up A Notch.mp3
+Apr 28 13:29 : update: added Phinehas - Rebel/08 - Boy Meets Girl.mp3
+Apr 28 13:29 : update: added Phinehas - Rebel/13 - Rebel.mp3
+Apr 28 13:29 : update: added Phinehas - Rebel/12 - Columbine, California.mp3
+Apr 28 13:29 : update: added Phinehas - Rebel/11 - Suitcase Man.mp3
+Apr 28 13:29 : update: added Phinehas - Rebel/02 - All Alone.mp3
+Apr 28 13:29 : update: added Phinehas - Rebel/01 - World Peace.mp3
+Apr 28 13:29 : update: added Phinehas - Rebel/17 - Smash The Devil.mp3
+Apr 28 13:29 : update: added Phinehas - Rebel/04 - Where You Are.mp3
+Apr 28 13:29 : update: added Phinehas - Rebel/10 - Ed I'm Sorry.mp3
+Apr 28 13:29 : update: added Phinehas - Rebel/03 - The Cappuccino Song.mp3
+Apr 28 13:29 : update: added Phinehas - Rebel/15 - She Said No.mp3
+Apr 28 13:29 : update: added Phinehas - Rebel/18 - Cruisin'.mp3
+Apr 28 13:29 : update: added Phinehas - Rebel/07 - Bob.mp3
+Apr 28 13:29 : update: added /August Burns Red - The Legend Of Zelda.mp3
+Apr 28 13:29 : update: added /August Burns Red - Bones.mp3
+Apr 28 13:29 : update: added Wolves At The Gate - Reprise/04 - The Father's Bargain (feat. Zach Bolen).mp3
+Apr 28 13:29 : update: added Wolves At The Gate - Reprise/03 - The Bird and the Snake (feat. Ryan Leitru).mp3
+Apr 28 13:29 : update: added Wolves At The Gate - Reprise/05 - East to West (feat. Aaron Troyer).mp3
+Apr 28 13:29 : update: added Wolves At The Gate - Reprise/06 - Waste.mp3
+Apr 28 13:29 : update: added Wolves At The Gate - Reprise/01 - Dead Man (feat. Michael McGough).mp3
+Apr 28 13:29 : update: added Wolves At The Gate - Reprise/02 - Relief (feat. Toby Morrell).mp3
+Apr 28 13:29 : update: added August Burns Red - Phantom Sessions EP/05 - The Frost (Midi).mp3
+Apr 28 13:29 : update: added August Burns Red - Phantom Sessions EP/03 - Laniakea.mp3
+Apr 28 13:29 : update: added August Burns Red - Phantom Sessions EP/02 - The Legend Of Zelda.mp3
+Apr 28 13:29 : update: added August Burns Red - Phantom Sessions EP/01 - Midnight.mp3
+Apr 28 13:29 : update: added August Burns Red - Phantom Sessions EP/04 - Coordinates (Reprise).mp3
+Apr 28 13:29 : update: added August Burns Red - Phantom Anthem (Instrumental Edition)/01 - King Of Sorrow (Instrumental).mp3
+Apr 28 13:29 : update: added August Burns Red - Phantom Anthem (Instrumental Edition)/11 - Carbon Copy (Instrumental).mp3
+Apr 28 13:29 : update: added August Burns Red - Phantom Anthem (Instrumental Edition)/09 - Float (Instrumental).mp3
+Apr 28 13:29 : update: added August Burns Red - Phantom Anthem (Instrumental Edition)/04 - Lifeline (Instrumental).mp3
+Apr 28 13:29 : update: added August Burns Red - Phantom Anthem (Instrumental Edition)/06 - Quake (Instrumental).mp3
+Apr 28 13:29 : update: added August Burns Red - Phantom Anthem (Instrumental Edition)/02 - Hero Of The Half Truth (Instrumental).mp3
+Apr 28 13:29 : update: added August Burns Red - Phantom Anthem (Instrumental Edition)/03 - The Frost (Instrumental).mp3
+Apr 28 13:29 : update: added August Burns Red - Phantom Anthem (Instrumental Edition)/08 - Generations (Instrumental).mp3
+Apr 28 13:29 : update: added August Burns Red - Phantom Anthem (Instrumental Edition)/07 - Coordinates (Instrumental).mp3
+Apr 28 13:29 : update: added August Burns Red - Phantom Anthem (Instrumental Edition)/05 - Invisible Enemy (Instrumental).mp3
+Apr 28 13:29 : update: added August Burns Red - Phantom Anthem (Instrumental Edition)/10 - Dangerous (Instrumental).mp3
+Apr 28 13:29 : update: added Wolves At The Gate - Counterfeit/04 - The Cure.mp3
+Apr 28 13:29 : update: added Wolves At The Gate - Counterfeit/03 - A Voice in the Violence.mp3
+Apr 28 13:29 : update: added Wolves At The Gate - Counterfeit/01 - Counterfeit.mp3
+Apr 28 13:29 : update: added Wolves At The Gate - Counterfeit/02 - Drifter.mp3
+Apr 28 13:29 : update: added /August Burns Red - Identity.mp3
+Apr 28 13:29 : update: added August Burns Red - Found In Far Away Places (Deluxe Edition)/12 - Marathon.mp3
+Apr 28 13:29 : update: added August Burns Red - Found In Far Away Places (Deluxe Edition)/07 - Everlasting Ending.mp3
+Apr 28 13:29 : update: added August Burns Red - Found In Far Away Places (Deluxe Edition)/04 - Separating The Seas.mp3
+Apr 28 13:29 : update: added August Burns Red - Found In Far Away Places (Deluxe Edition)/14 - Identity (Midi Version).mp3
+Apr 28 13:29 : update: added August Burns Red - Found In Far Away Places (Deluxe Edition)/02 - Martyr.mp3
+Apr 28 13:29 : update: added August Burns Red - Found In Far Away Places (Deluxe Edition)/10 - Twenty-One Grams.mp3
+Apr 28 13:29 : update: added August Burns Red - Found In Far Away Places (Deluxe Edition)/09 - Blackwood.mp3
+Apr 28 13:29 : update: added August Burns Red - Found In Far Away Places (Deluxe Edition)/05 - Ghosts.mp3
+Apr 28 13:29 : update: added August Burns Red - Found In Far Away Places (Deluxe Edition)/01 - The Wake.mp3
+Apr 28 13:29 : update: added August Burns Red - Found In Far Away Places (Deluxe Edition)/11 - Vanguard.mp3
+Apr 28 13:29 : update: added August Burns Red - Found In Far Away Places (Deluxe Edition)/13 - Majoring In The Minors (Reprise).mp3
+Apr 28 13:29 : update: added August Burns Red - Found In Far Away Places (Deluxe Edition)/03 - Identity.mp3
+Apr 28 13:29 : update: added August Burns Red - Found In Far Away Places (Deluxe Edition)/06 - Majoring In The Minors.mp3
+Apr 28 13:29 : update: added August Burns Red - Found In Far Away Places (Deluxe Edition)/08 - Broken Promises.mp3
+Apr 28 13:29 : update: added Wolves At The Gate - A Voice in the Violence/02 - The Cure.mp3
+Apr 28 13:29 : update: added Wolves At The Gate - A Voice in the Violence/01 - A Voice in the Violence.mp3
+Apr 28 13:29 : update: added August Burns Red - Constellations (Remixed)/12 - Crusades.mp3
+Apr 28 13:29 : update: added August Burns Red - Constellations (Remixed)/02 - Existence.mp3
+Apr 28 13:29 : update: added August Burns Red - Constellations (Remixed)/08 - Paradox.mp3
+Apr 28 13:29 : update: added August Burns Red - Constellations (Remixed)/04 - White Washed.mp3
+Apr 28 13:29 : update: added August Burns Red - Constellations (Remixed)/07 - Indonesia.mp3
+Apr 28 13:29 : update: added August Burns Red - Constellations (Remixed)/10 - Rationalist.mp3
+Apr 28 13:29 : update: added August Burns Red - Constellations (Remixed)/01 - Thirty and Seven.mp3
+Apr 28 13:29 : update: added August Burns Red - Constellations (Remixed)/13 - Ocean of Apathy (Reprise).mp3
+Apr 28 13:29 : update: added August Burns Red - Constellations (Remixed)/06 - The Escape Artist.mp3
+Apr 28 13:29 : update: added August Burns Red - Constellations (Remixed)/09 - Meridian.mp3
+Apr 28 13:29 : update: added August Burns Red - Constellations (Remixed)/05 - Marianas Trench.mp3
+Apr 28 13:29 : update: added August Burns Red - Constellations (Remixed)/03 - Ocean of Apathy.mp3
+Apr 28 13:29 : update: added August Burns Red - Constellations (Remixed)/11 - Meddler.mp3
+Apr 28 13:29 : update: added /August Burns Red - Spirit Breaker - Single.mp3
+Apr 28 13:29 : update: added Memphis May Fire - Unconditional_ Deluxe Edition/12 - My Generation.mp3
+Apr 28 13:29 : update: added Memphis May Fire - Unconditional_ Deluxe Edition/13 - Stay The Course.mp3
+Apr 28 13:29 : update: added Memphis May Fire - Unconditional_ Deluxe Edition/10 - Pharisees.mp3
+Apr 28 13:29 : update: added Memphis May Fire - Unconditional_ Deluxe Edition/02 - Beneath The Skin.mp3
+Apr 28 13:29 : update: added Memphis May Fire - Unconditional_ Deluxe Edition/06 - Speechless.mp3
+Apr 28 13:29 : update: added Memphis May Fire - Unconditional_ Deluxe Edition/15 - Need To Be (Acoustic).mp3
+Apr 28 13:29 : update: added Memphis May Fire - Unconditional_ Deluxe Edition/08 - Not Enough.mp3
+Apr 28 13:29 : update: added Memphis May Fire - Unconditional_ Deluxe Edition/03 - Sleepless Nights.mp3
+Apr 28 13:29 : update: added Memphis May Fire - Unconditional_ Deluxe Edition/14 - Beneath The Skin (Acoustic).mp3
+Apr 28 13:29 : update: added Memphis May Fire - Unconditional_ Deluxe Edition/04 - The Answer.mp3
+Apr 28 13:29 : update: added Memphis May Fire - Unconditional_ Deluxe Edition/11 - Divinity.mp3
+Apr 28 13:29 : update: added Memphis May Fire - Unconditional_ Deluxe Edition/01 - No Ordinary Love.mp3
+Apr 28 13:29 : update: added Memphis May Fire - Unconditional_ Deluxe Edition/09 - Need To Be.mp3
+Apr 28 13:29 : update: added Memphis May Fire - Unconditional_ Deluxe Edition/05 - Possibilities.mp3
+Apr 28 13:29 : update: added Memphis May Fire - Unconditional_ Deluxe Edition/07 - The Rose.mp3
+Apr 28 13:29 : update: added /Wolves At The Gate - Flickering Flame.mp3
+Apr 28 13:29 : update: added /Wolves At The Gate - War in the Time of Peace.mp3
+Apr 28 13:29 : update: added Wolves At The Gate - Vxv/12 - The Father's Bargain.mp3
+Apr 28 13:29 : update: added Wolves At The Gate - Vxv/04 - Return.mp3
+Apr 28 13:29 : update: added Wolves At The Gate - Vxv/05 - Relief.mp3
+Apr 28 13:29 : update: added Wolves At The Gate - Vxv/01 - Vxv.mp3
+Apr 28 13:29 : update: added Wolves At The Gate - Vxv/06 - The Bird and the Snake.mp3
+Apr 28 13:29 : update: added Wolves At The Gate - Vxv/07 - Rest.mp3
+Apr 28 13:29 : update: added Wolves At The Gate - Vxv/10 - The Convicted.mp3
+Apr 28 13:29 : update: added Wolves At The Gate - Vxv/02 - Wake Up.mp3
+Apr 28 13:29 : update: added Wolves At The Gate - Vxv/09 - Wild Heart.mp3
+Apr 28 13:29 : update: added Wolves At The Gate - Vxv/03 - Dust to Dust.mp3
+Apr 28 13:29 : update: added Wolves At The Gate - Vxv/08 - East to West.mp3
+Apr 28 13:29 : update: added Wolves At The Gate - Vxv/11 - Majesty in Misery.mp3
+Apr 28 13:29 : update: added Fit For A King - Creation _ Destruction/02 - Warpath.mp3
+Apr 28 13:29 : update: added Fit For A King - Creation _ Destruction/01 - Creation.mp3
+Apr 28 13:29 : update: added Fit For A King - Creation _ Destruction/08 - Identity.mp3
+Apr 28 13:29 : update: added Fit For A King - Creation _ Destruction/04 - Broken Fame.mp3
+Apr 28 13:29 : update: added Fit For A King - Creation _ Destruction/11 - Destruction.mp3
+Apr 28 13:29 : update: added Fit For A King - Creation _ Destruction/03 - Hollow King (Sound of the End).mp3
+Apr 28 13:29 : update: added Fit For A King - Creation _ Destruction/05 - Bitter End.mp3
+Apr 28 13:29 : update: added Fit For A King - Creation _ Destruction/10 - Eyes to See.mp3
+Apr 28 13:29 : update: added Fit For A King - Creation _ Destruction/07 - The Resistance.mp3
+Apr 28 13:29 : update: added Fit For A King - Creation _ Destruction/09 - The Lioness.mp3
+Apr 28 13:29 : update: added Fit For A King - Creation _ Destruction/06 - Skin & Bones.mp3
+Apr 28 13:29 : update: added August Burns Red - Found In Far Away Places/07 - Everlasting Ending.mp3
+Apr 28 13:29 : update: added August Burns Red - Found In Far Away Places/04 - Separating The Seas.mp3
+Apr 28 13:29 : update: added August Burns Red - Found In Far Away Places/02 - Martyr.mp3
+Apr 28 13:29 : update: added August Burns Red - Found In Far Away Places/10 - Twenty-One Grams.mp3
+Apr 28 13:29 : update: added August Burns Red - Found In Far Away Places/09 - Blackwood.mp3
+Apr 28 13:29 : update: added August Burns Red - Found In Far Away Places/05 - Ghosts.mp3
+Apr 28 13:29 : update: added August Burns Red - Found In Far Away Places/01 - The Wake.mp3
+Apr 28 13:29 : update: added August Burns Red - Found In Far Away Places/11 - Vanguard.mp3
+Apr 28 13:29 : update: added August Burns Red - Found In Far Away Places/03 - Identity.mp3
+Apr 28 13:29 : update: added August Burns Red - Found In Far Away Places/06 - Majoring In The Minors.mp3
+Apr 28 13:29 : update: added August Burns Red - Found In Far Away Places/08 - Broken Promises.mp3
+Apr 28 13:29 : update: added Silent Planet - Silent Planet on Audiotree Live/01 - Native Blood (Live).mp3
+Apr 28 13:29 : update: added Silent Planet - Silent Planet on Audiotree Live/06 - Depths II (Live).mp3
+Apr 28 13:29 : update: added Silent Planet - Silent Planet on Audiotree Live/03 - Firstwake (Live).mp3
+Apr 28 13:29 : update: added Silent Planet - Silent Planet on Audiotree Live/05 - Tiny Hands (Au Revoir) [Live].mp3
+Apr 28 13:29 : update: added Silent Planet - Silent Planet on Audiotree Live/04 - XX (City Grave) [Live].mp3
+Apr 28 13:29 : update: added Silent Planet - Silent Planet on Audiotree Live/02 - Wasteland (Vechnost) [Live].mp3
+Apr 28 13:29 : update: added Wolves At The Gate - Back to School/03 - Sleepwalking.mp3
+Apr 28 13:29 : update: added Wolves At The Gate - Back to School/04 - Planning a Prison Break.mp3
+Apr 28 13:29 : update: added Wolves At The Gate - Back to School/01 - Deadbolt.mp3
+Apr 28 13:29 : update: added Wolves At The Gate - Back to School/02 - Understanding in a Car Crash.mp3
+Apr 28 13:29 : update: added For All Eternity - Metanoia/02 - Break of Dawn.mp3
+Apr 28 13:29 : update: added For All Eternity - Metanoia/07 - Metanoia.mp3
+Apr 28 13:29 : update: added For All Eternity - Metanoia/03 - Further from Hate.mp3
+Apr 28 13:29 : update: added For All Eternity - Metanoia/08 - Stitched the Same (feat. Kyle Tamosaitis).mp3
+Apr 28 13:29 : update: added For All Eternity - Metanoia/10 - Awaken the Heart.mp3
+Apr 28 13:29 : update: added For All Eternity - Metanoia/04 - The Divide.mp3
+Apr 28 13:29 : update: added For All Eternity - Metanoia/05 - Mountainside.mp3
+Apr 28 13:29 : update: added For All Eternity - Metanoia/01 - Remove the Pulse.mp3
+Apr 28 13:29 : update: added For All Eternity - Metanoia/06 - Unharness (feat. Mattie Montgomery).mp3
+Apr 28 13:29 : update: added For All Eternity - Metanoia/09 - White Flame.mp3
+Apr 28 13:29 : update: added For All Eternity - Beyond the Gates/11 - Beyond the Gates.mp3
+Apr 28 13:29 : update: added For All Eternity - Beyond the Gates/05 - Solid Ground.mp3
+Apr 28 13:29 : update: added For All Eternity - Beyond the Gates/02 - Vacant Room.mp3
+Apr 28 13:29 : update: added For All Eternity - Beyond the Gates/10 - All That Awaits.mp3
+Apr 28 13:29 : update: added For All Eternity - Beyond the Gates/04 - The Wide Path.mp3
+Apr 28 13:29 : update: added For All Eternity - Beyond the Gates/12 - Victory.mp3
+Apr 28 13:29 : update: added For All Eternity - Beyond the Gates/08 - Awake to the Sound.mp3
+Apr 28 13:29 : update: added For All Eternity - Beyond the Gates/03 - Broken Hands.mp3
+Apr 28 13:29 : update: added For All Eternity - Beyond the Gates/09 - Strength.mp3
+Apr 28 13:29 : update: added For All Eternity - Beyond the Gates/07 - Bright Eyes.mp3
+Apr 28 13:29 : update: added For All Eternity - Beyond the Gates/06 - Renewer.mp3
+Apr 28 13:29 : update: added For All Eternity - Beyond the Gates/01 - Born.mp3
+Apr 28 13:29 : update: added /Silent Planet - The New Eternity.mp3
+Apr 28 13:29 : update: added /Phinehas - Dark Flag.mp3
+Apr 28 13:29 : update: added Bury Tomorrow - Black Flame/10 - Peacekeeper.mp3
+Apr 28 13:29 : update: added Bury Tomorrow - Black Flame/09 - Overcast.mp3
+Apr 28 13:29 : update: added Bury Tomorrow - Black Flame/02 - Adrenaline.mp3
+Apr 28 13:29 : update: added Bury Tomorrow - Black Flame/04 - My Revenge.mp3
+Apr 28 13:29 : update: added Bury Tomorrow - Black Flame/01 - No Less Violent.mp3
+Apr 28 13:29 : update: added Bury Tomorrow - Black Flame/08 - Stormbringer.mp3
+Apr 28 13:29 : update: added Bury Tomorrow - Black Flame/03 - Black Flame.mp3
+Apr 28 13:29 : update: added Bury Tomorrow - Black Flame/06 - Knife of Gold.mp3
+Apr 28 13:29 : update: added Bury Tomorrow - Black Flame/07 - The Age.mp3
+Apr 28 13:29 : update: added Bury Tomorrow - Black Flame/05 - More Than Mortal.mp3
+Apr 28 13:29 : update: added August Burns Red - Rescue & Restore/08 - Beauty in Tragedy.mp3
+Apr 28 13:29 : update: added August Burns Red - Rescue & Restore/06 - Creative Captivity.mp3
+Apr 28 13:29 : update: added August Burns Red - Rescue & Restore/10 - Echoes.mp3
+Apr 28 13:29 : update: added August Burns Red - Rescue & Restore/03 - Spirit Breaker.mp3
+Apr 28 13:29 : update: added August Burns Red - Rescue & Restore/11 - The First Step.mp3
+Apr 28 13:29 : update: added August Burns Red - Rescue & Restore/07 - Fault Line.mp3
+Apr 28 13:29 : update: added August Burns Red - Rescue & Restore/09 - Animals.mp3
+Apr 28 13:29 : update: added August Burns Red - Rescue & Restore/02 - Treatment.mp3
+Apr 28 13:29 : update: added August Burns Red - Rescue & Restore/01 - Provision.mp3
+Apr 28 13:29 : update: added August Burns Red - Rescue & Restore/04 - Count It All as Lost.mp3
+Apr 28 13:29 : update: added August Burns Red - Rescue & Restore/05 - Sincerity.mp3
+Apr 28 13:29 : update: added /Silent Planet - Share the Body.mp3
+Apr 28 13:29 : update: added Bury Tomorrow - Runes/07 - Another Journey.mp3
+Apr 28 13:29 : update: added Bury Tomorrow - Runes/06 - Darker Water.mp3
+Apr 28 13:29 : update: added Bury Tomorrow - Runes/02 - Shadow, a Creator.mp3
+Apr 28 13:29 : update: added Bury Tomorrow - Runes/05 - Our Gift.mp3
+Apr 28 13:29 : update: added Bury Tomorrow - Runes/15 - The Torch (Acoustic Version).mp3
+Apr 28 13:29 : update: added Bury Tomorrow - Runes/09 - Year of the Harvest.mp3
+Apr 28 13:29 : update: added Bury Tomorrow - Runes/04 - Watcher.mp3
+Apr 28 13:29 : update: added Bury Tomorrow - Runes/08 - Under the Sun.mp3
+Apr 28 13:29 : update: added Bury Tomorrow - Runes/10 - Garden of Thorns.mp3
+Apr 28 13:29 : update: added Bury Tomorrow - Runes/11 - Divine Breath.mp3
+Apr 28 13:29 : update: added Bury Tomorrow - Runes/16 - Watcher, Pt. 2.mp3
+Apr 28 13:29 : update: added Bury Tomorrow - Runes/03 - The Torch.mp3
+Apr 28 13:29 : update: added Bury Tomorrow - Runes/12 - Of Glory.mp3
+Apr 28 13:29 : update: added Bury Tomorrow - Runes/13 - Last of the Ice.mp3
+Apr 28 13:29 : update: added Bury Tomorrow - Runes/01 - Man on Fire.mp3
+Apr 28 13:29 : update: added Bury Tomorrow - Runes/14 - Hail the Lost.mp3
+Apr 28 13:29 : update: added Bury Tomorrow - The Union of Crowns/10 - Kingdom.mp3
+Apr 28 13:29 : update: added Bury Tomorrow - The Union of Crowns/09 - Abdication of Power.mp3
+Apr 28 13:29 : update: added Bury Tomorrow - The Union of Crowns/03 - Lionheart.mp3
+Apr 28 13:29 : update: added Bury Tomorrow - The Union of Crowns/07 - Royal Blood.mp3
+Apr 28 13:29 : update: added Bury Tomorrow - The Union of Crowns/11 - 1603.mp3
+Apr 28 13:29 : update: added Bury Tomorrow - The Union of Crowns/04 - Message to a King.mp3
+Apr 28 13:29 : update: added Bury Tomorrow - The Union of Crowns/14 - A Curse.mp3
+Apr 28 13:29 : update: added Bury Tomorrow - The Union of Crowns/06 - Knight Life.mp3
+Apr 28 13:29 : update: added Bury Tomorrow - The Union of Crowns/13 - Vacant Throne.mp3
+Apr 28 13:29 : update: added Bury Tomorrow - The Union of Crowns/08 - Bitemarks.mp3
+Apr 28 13:29 : update: added Bury Tomorrow - The Union of Crowns/02 - The Maiden.mp3
+Apr 28 13:29 : update: added Bury Tomorrow - The Union of Crowns/12 - Sceptres.mp3
+Apr 28 13:29 : update: added Bury Tomorrow - The Union of Crowns/05 - An Honourable Reign.mp3
+Apr 28 13:29 : update: added Bury Tomorrow - The Union of Crowns/01 - Redeemer.mp3
+Apr 28 13:29 : update: added Bury Tomorrow - Portraits/06 - Casting Shapes.mp3
+Apr 28 13:29 : update: added Bury Tomorrow - Portraits/01 - Confessions.mp3
+Apr 28 13:29 : update: added Bury Tomorrow - Portraits/07 - Factory Of Embers.mp3
+Apr 28 13:29 : update: added Bury Tomorrow - Portraits/03 - You & I.mp3
+Apr 28 13:29 : update: added Bury Tomorrow - Portraits/05 - Repair The Lining.mp3
+Apr 28 13:29 : update: added Bury Tomorrow - Portraits/04 - Her Bones In The Sand.mp3
+Apr 28 13:29 : update: added Bury Tomorrow - Portraits/02 - Evolution Of Self.mp3
+Apr 28 13:29 : update: added Bury Tomorrow - Portraits/11 - Portraits.mp3
+Apr 28 13:29 : update: added Bury Tomorrow - Portraits/10 - These Woods Aren't Safe For Us.mp3
+Apr 28 13:29 : update: added Bury Tomorrow - Portraits/08 - Relief.mp3
+Apr 28 13:29 : update: added Bury Tomorrow - Portraits/09 - Anything With Teeth.mp3
+Apr 28 13:29 : update: added Convictions - Hope for the Broken/02 - Deceptive Heart.mp3
+Apr 28 13:29 : update: added Convictions - Hope for the Broken/08 - The Storm Will Pass.mp3
+Apr 28 13:29 : update: added Convictions - Hope for the Broken/13 - Hope for the Broken.mp3
+Apr 28 13:29 : update: added Convictions - Hope for the Broken/10 - To Sleep is to Feel.mp3
+Apr 28 13:29 : update: added Convictions - Hope for the Broken/03 - Voices (They Want Me Dead).mp3
+Apr 28 13:29 : update: added Convictions - Hope for the Broken/01 - Exodus, The End of Us.mp3
+Apr 28 13:29 : update: added Convictions - Hope for the Broken/04 - Divided.mp3
+Apr 28 13:29 : update: added Convictions - Hope for the Broken/06 - Feel Alive.mp3
+Apr 28 13:29 : update: added Convictions - Hope for the Broken/05 - We Are Violence.mp3
+Apr 28 13:29 : update: added Convictions - Hope for the Broken/09 - Reckless.mp3
+Apr 28 13:29 : update: added Convictions - Hope for the Broken/12 - Never Wanted It This Way.mp3
+Apr 28 13:29 : update: added Convictions - Hope for the Broken/07 - False Witnesses.mp3
+Apr 28 13:29 : update: added Convictions - Hope for the Broken/11 - Reverie.mp3
+Apr 28 13:29 : update: added /Wage War - Prison.mp3
+Apr 28 13:29 : update: added /Bury Tomorrow - Knife of Gold.mp3
+Apr 28 13:29 : update: added Fit For A King - Descendants - Redux/02 - Ancient Waters.mp3
+Apr 28 13:29 : update: added Fit For A King - Descendants - Redux/07 - Hollow Eyes.mp3
+Apr 28 13:29 : update: added Fit For A King - Descendants - Redux/04 - Parallels.mp3
+Apr 28 13:29 : update: added Fit For A King - Descendants - Redux/08 - The Roots Within.mp3
+Apr 28 13:29 : update: added Fit For A King - Descendants - Redux/06 - Descendants.mp3
+Apr 28 13:29 : update: added Fit For A King - Descendants - Redux/10 - Transcend.mp3
+Apr 28 13:29 : update: added Fit For A King - Descendants - Redux/03 - Buried.mp3
+Apr 28 13:29 : update: added Fit For A King - Descendants - Redux/12 - Keep Me Alive.mp3
+Apr 28 13:29 : update: added Fit For A King - Descendants - Redux/11 - Unchanging.mp3
+Apr 28 13:29 : update: added Fit For A King - Descendants - Redux/05 - The Architect.mp3
+Apr 28 13:29 : update: added Fit For A King - Descendants - Redux/09 - Messenger, Messenger.mp3
+Apr 28 13:29 : update: added Fit For A King - Descendants - Redux/01 - Il Diluvio.mp3
+Apr 28 13:29 : update: added Silent Planet - The Night God Slept (Instrumental)/11 - Depths II (Instrumental).mp3
+Apr 28 13:29 : update: added Silent Planet - The Night God Slept (Instrumental)/01 - The Well (Instrumental).mp3
+Apr 28 13:29 : update: added Silent Planet - The Night God Slept (Instrumental)/06 - Firstwake (Instrumental).mp3
+Apr 28 13:29 : update: added Silent Planet - The Night God Slept (Instrumental)/05 - Tiny Hands (Au Revoir) (Instrumental).mp3
+Apr 28 13:29 : update: added Silent Planet - The Night God Slept (Instrumental)/03 - I Drowned In The Desert (Instrumental).mp3
+Apr 28 13:29 : update: added Silent Planet - The Night God Slept (Instrumental)/07 - Darkstrand (Hibakusha) (Instrumental).mp3
+Apr 28 13:29 : update: added Silent Planet - The Night God Slept (Instrumental)/10 - Wasteland (Instrumental).mp3
+Apr 28 13:29 : update: added Silent Planet - The Night God Slept (Instrumental)/09 - To Thirst For The Sea (Instrumental).mp3
+Apr 28 13:29 : update: added Silent Planet - The Night God Slept (Instrumental)/08 - First Mother (Lilith) (Instrumental).mp3
+Apr 28 13:29 : update: added Silent Planet - The Night God Slept (Instrumental)/02 - XX (City Grave) (Instrumental).mp3
+Apr 28 13:29 : update: added Silent Planet - The Night God Slept (Instrumental)/04 - Native Blood (Instrumental).mp3
+Apr 28 13:29 : update: added Wolves At The Gate - Eclipse/06 - Evil Are the Kings.mp3
+Apr 28 13:29 : update: added Wolves At The Gate - Eclipse/01 - The Cure.mp3
+Apr 28 13:29 : update: added Wolves At The Gate - Eclipse/10 - The Sea in Between.mp3
+Apr 28 13:29 : update: added Wolves At The Gate - Eclipse/02 - Face to Face.mp3
+Apr 28 13:29 : update: added Wolves At The Gate - Eclipse/09 - History.mp3
+Apr 28 13:29 : update: added Wolves At The Gate - Eclipse/07 - Eclipse.mp3
+Apr 28 13:29 : update: added Wolves At The Gate - Eclipse/13 - Blessings & Curses.mp3
+Apr 28 13:29 : update: added Wolves At The Gate - Eclipse/04 - Drifter.mp3
+Apr 28 13:29 : update: added Wolves At The Gate - Eclipse/05 - Enemy.mp3
+Apr 28 13:29 : update: added Wolves At The Gate - Eclipse/12 - Counterfeit.mp3
+Apr 28 13:29 : update: added Wolves At The Gate - Eclipse/03 - A Voice in the Violence.mp3
+Apr 28 13:29 : update: added Wolves At The Gate - Eclipse/08 - Response.mp3
+Apr 28 13:29 : update: added Wolves At The Gate - Eclipse/11 - Alone.mp3
+Apr 28 13:29 : update: added /Fit For A King - Dead Memory (feat. Jake Luhrs).mp3
+Apr 28 13:29 : update: added /Wage War - Who I Am.mp3
+Apr 28 13:29 : update: added Wolves At The Gate - The King _ Come Thou Long Expected Jesus/02 - Come Thou Long Expected Jesus.mp3
+Apr 28 13:29 : update: added Wolves At The Gate - The King _ Come Thou Long Expected Jesus/01 - The King.mp3
+Apr 28 13:29 : update: added /Bury Tomorrow - The Grey (VIXI).mp3
+Apr 28 13:29 : update: added /Wolves At The Gate - The King.mp3
+Apr 28 13:29 : update: added Phinehas - Thegodmachine/11 - Pendulum.mp3
+Apr 28 13:29 : update: added Phinehas - Thegodmachine/10 - Grace Disguised by Darkness.mp3
+Apr 28 13:29 : update: added Phinehas - Thegodmachine/13 - That I May Love You.mp3
+Apr 28 13:29 : update: added Phinehas - Thegodmachine/05 - From One End of the Sky to the Other.mp3
+Apr 28 13:29 : update: added Phinehas - Thegodmachine/03 - A Pattern in Pain.mp3
+Apr 28 13:29 : update: added Phinehas - Thegodmachine/06 - Legacy.mp3
+Apr 28 13:29 : update: added Phinehas - Thegodmachine/07 - Crowns.mp3
+Apr 28 13:29 : update: added Phinehas - Thegodmachine/02 - Bad Blood.mp3
+Apr 28 13:29 : update: added Phinehas - Thegodmachine/12 - Thegodmachine_ The Rider.mp3
+Apr 28 13:29 : update: added Phinehas - Thegodmachine/09 - My Horses Are Many.mp3
+Apr 28 13:29 : update: added Phinehas - Thegodmachine/04 - I Am the Lion.mp3
+Apr 28 13:29 : update: added Phinehas - Thegodmachine/01 - Thegodmachine_ The Speaking Stone.mp3
+Apr 28 13:29 : update: added Phinehas - Thegodmachine/08 - The Wishing Well.mp3
+Apr 28 13:29 : update: added Wolves At The Gate - We Are The Ones/03 - Heralds.mp3
+Apr 28 13:29 : update: added Wolves At The Gate - We Are The Ones/01 - We Are The Ones.mp3
+Apr 28 13:29 : update: added Wolves At The Gate - We Are The Ones/06 - Oh The Depths.mp3
+Apr 28 13:29 : update: added Wolves At The Gate - We Are The Ones/07 - Heralds (Acoustic).mp3
+Apr 28 13:29 : update: added Wolves At The Gate - We Are The Ones/02 - Vapors.mp3
+Apr 28 13:29 : update: added Wolves At The Gate - We Are The Ones/08 - No Rival (Acoustic).mp3
+Apr 28 13:29 : update: added Wolves At The Gate - We Are The Ones/05 - No Rival.mp3
+Apr 28 13:29 : update: added Wolves At The Gate - We Are The Ones/04 - Tonight My Son.mp3
+Apr 28 13:29 : update: added August Burns Red - Lost Messengers_ The Outtakes/07 - Vital Signs (Demo).mp3
+Apr 28 13:29 : update: added August Burns Red - Lost Messengers_ The Outtakes/04 - To Those About to Rock.mp3
+Apr 28 13:29 : update: added August Burns Red - Lost Messengers_ The Outtakes/03 - Carol of the Bells.mp3
+Apr 28 13:29 : update: added August Burns Red - Lost Messengers_ The Outtakes/01 - Chasing the Dragon.mp3
+Apr 28 13:29 : update: added August Burns Red - Lost Messengers_ The Outtakes/06 - Truth of a Liar (Demo).mp3
+Apr 28 13:29 : update: added August Burns Red - Lost Messengers_ The Outtakes/05 - Piano Man.mp3
+Apr 28 13:29 : update: added August Burns Red - Lost Messengers_ The Outtakes/02 - Mosely.mp3
+Apr 28 13:29 : update: added For Today - Breaker/12 - The Breaker's Commission.mp3
+Apr 28 13:29 : update: added For Today - Breaker/02 - Devastator.mp3
+Apr 28 13:29 : update: added For Today - Breaker/11 - King.mp3
+Apr 28 13:29 : update: added For Today - Breaker/03 - The Advocate.mp3
+Apr 28 13:29 : update: added For Today - Breaker/08 - The Breaker's Encounter.mp3
+Apr 28 13:29 : update: added For Today - Breaker/10 - Psalm of the Son.mp3
+Apr 28 13:29 : update: added For Today - Breaker/01 - The Breaker's Origin.mp3
+Apr 28 13:29 : update: added For Today - Breaker/07 - White Flag.mp3
+Apr 28 13:29 : update: added For Today - Breaker/06 - Arm the Masses.mp3
+Apr 28 13:29 : update: added For Today - Breaker/05 - Seraphim.mp3
+Apr 28 13:29 : update: added For Today - Breaker/09 - Phoenix.mp3
+Apr 28 13:29 : update: added For Today - Breaker/04 - The Breaker's Valley.mp3
+Apr 28 13:29 : update: added Wolves At The Gate - Drifter/02 - A Voice in the Violence.mp3
+Apr 28 13:29 : update: added Wolves At The Gate - Drifter/03 - The Cure.mp3
+Apr 28 13:29 : update: added Wolves At The Gate - Drifter/01 - Drifter.mp3
+Apr 28 13:29 : update: added Phinehas - Till The End/10 - Iliaster (More Than Skin).mp3
+Apr 28 13:29 : update: added Phinehas - Till The End/05 - Forever West.mp3
+Apr 28 13:29 : update: added Phinehas - Till The End/11 - Evening Gray and Morning Red.mp3
+Apr 28 13:29 : update: added Phinehas - Till The End/01 - Dead Choir.mp3
+Apr 28 13:29 : update: added Phinehas - Till The End/07 - Coup De Grace.mp3
+Apr 28 13:29 : update: added Phinehas - Till The End/06 - Tetelestai.mp3
+Apr 28 13:29 : update: added Phinehas - Till The End/08 - Omnis.mp3
+Apr 28 13:29 : update: added Phinehas - Till The End/04 - Non.mp3
+Apr 28 13:29 : update: added Phinehas - Till The End/03 - Truth Be Told.mp3
+Apr 28 13:29 : update: added Phinehas - Till The End/13 - Till the End.mp3
+Apr 28 13:29 : update: added Phinehas - Till The End/09 - Seven.mp3
+Apr 28 13:29 : update: added Phinehas - Till The End/12 - Moriar.mp3
+Apr 28 13:29 : update: added Phinehas - Till The End/02 - White Livered.mp3
+Apr 28 13:29 : update: added Fit For A King - Slave to Nothing/07 - A Greater Sense of Self.mp3
+Apr 28 13:29 : update: added Fit For A King - Slave to Nothing/08 - Forever Unbroken.mp3
+Apr 28 13:29 : update: added Fit For A King - Slave to Nothing/03 - Slave to Nothing.mp3
+Apr 28 13:29 : update: added Fit For A King - Slave to Nothing/06 - Selfish Eyes.mp3
+Apr 28 13:29 : update: added Fit For A King - Slave to Nothing/10 - Cleanse My Soul.mp3
+Apr 28 13:29 : update: added Fit For A King - Slave to Nothing/11 - The Final Thoughts of a Dying Man.mp3
+Apr 28 13:29 : update: added Fit For A King - Slave to Nothing/01 - Kill the Pain.mp3
+Apr 28 13:29 : update: added Fit For A King - Slave to Nothing/09 - Impostor.mp3
+Apr 28 13:29 : update: added Fit For A King - Slave to Nothing/04 - Break Away.mp3
+Apr 28 13:29 : update: added Fit For A King - Slave to Nothing/02 - Young & Undeserving.mp3
+Apr 28 13:29 : update: added Fit For A King - Slave to Nothing/05 - Hooked.mp3
+Apr 28 13:29 : update: added /August Burns Red - Last Christmas.mp3
+Apr 28 13:29 : update: added August Burns Red - Messengers Remixed/03 - Backburner (Remixed).mp3
+Apr 28 13:29 : update: added August Burns Red - Messengers Remixed/09 - Black Sheep (Remixed).mp3
+Apr 28 13:29 : update: added August Burns Red - Messengers Remixed/04 - The Blinding Light (Remixed).mp3
+Apr 28 13:29 : update: added August Burns Red - Messengers Remixed/02 - Up Against the Ropes (Remixed).mp3
+Apr 28 13:29 : update: added August Burns Red - Messengers Remixed/07 - The Eleventh Hour (Remixed).mp3
+Apr 28 13:29 : update: added August Burns Red - Messengers Remixed/11 - Redemption (Remixed).mp3
+Apr 28 13:29 : update: added August Burns Red - Messengers Remixed/05 - Composure (Remixed).mp3
+Apr 28 13:29 : update: added August Burns Red - Messengers Remixed/01 - Truth of a Liar (Remixed).mp3
+Apr 28 13:29 : update: added August Burns Red - Messengers Remixed/06 - Vital Signs (Remixed).mp3
+Apr 28 13:29 : update: added August Burns Red - Messengers Remixed/10 - An American Dream (Remixed).mp3
+Apr 28 13:29 : update: added August Burns Red - Messengers Remixed/08 - The Balance (Remixed).mp3
+Apr 28 13:29 : update: added Phinehas - Fight Through the Night - EP/03 - Dead Choir (Acoustic).mp3
+Apr 28 13:29 : update: added Phinehas - Fight Through the Night - EP/01 - Cessation of Breathing.mp3
+Apr 28 13:29 : update: added Phinehas - Fight Through the Night - EP/04 - Selah.mp3
+Apr 28 13:29 : update: added Phinehas - Fight Through the Night - EP/05 - Seven (Acoustic).mp3
+Apr 28 13:29 : update: added Phinehas - Fight Through the Night - EP/02 - Forever West (Acoustic).mp3
+Apr 28 13:29 : update: added Phinehas - Fight Through the Night - EP/06 - Book of Names.mp3
+Apr 28 13:29 : update: added August Burns Red - Home/07 - Truth of a Liar.mp3
+Apr 28 13:29 : update: added August Burns Red - Home/04 - Your Little Suburbia Is in Ruins.mp3
+Apr 28 13:29 : update: added August Burns Red - Home/09 - Thirty and Seven.mp3
+Apr 28 13:29 : update: added August Burns Red - Home/02 - Back Burner.mp3
+Apr 28 13:29 : update: added August Burns Red - Home/15 - The Seventh Trumpet.mp3
+Apr 28 13:29 : update: added August Burns Red - Home/05 - The Eleventh Hour.mp3
+Apr 28 13:29 : update: added August Burns Red - Home/06 - Meddler.mp3
+Apr 28 13:29 : update: added August Burns Red - Home/14 - Composure.mp3
+Apr 28 13:29 : update: added August Burns Red - Home/10 - Existence.mp3
+Apr 28 13:29 : update: added August Burns Red - Home/11 - Meridian.mp3
+Apr 28 13:29 : update: added August Burns Red - Home/03 - Whitewashed.mp3
+Apr 28 13:29 : update: added August Burns Red - Home/12 - Shot Below the Belt.mp3
+Apr 28 13:29 : update: added August Burns Red - Home/08 - Mariana's Trench.mp3
+Apr 28 13:29 : update: added August Burns Red - Home/13 - Up Against the Ropes.mp3
+Apr 28 13:29 : update: added August Burns Red - Home/01 - Intro.mp3
+Apr 28 13:29 : update: added /Bury Tomorrow - Black Flame.mp3
+Apr 28 13:29 : update: added Silent Planet - Everything Was Sound/06 - Panic Room.mp3
+Apr 28 13:29 : update: added Silent Planet - Everything Was Sound/05 - Tout Comprendre.mp3
+Apr 28 13:29 : update: added Silent Planet - Everything Was Sound/04 - Understanding Love as Loss.mp3
+Apr 28 13:29 : update: added Silent Planet - Everything Was Sound/09 - C'est Tout Pardonner.mp3
+Apr 28 13:29 : update: added Silent Planet - Everything Was Sound/11 - No Place to Breathe.mp3
+Apr 28 13:29 : update: added Silent Planet - Everything Was Sound/13 - Inhabit the Wound.mp3
+Apr 28 13:29 : update: added Silent Planet - Everything Was Sound/10 - Orphan.mp3
+Apr 28 13:29 : update: added Silent Planet - Everything Was Sound/12 - First Father.mp3
+Apr 28 13:29 : update: added Silent Planet - Everything Was Sound/08 - Nervosa.mp3
+Apr 28 13:29 : update: added Silent Planet - Everything Was Sound/03 - Dying in Circles.mp3
+Apr 28 13:29 : update: added Silent Planet - Everything Was Sound/02 - Psychescape.mp3
+Apr 28 13:29 : update: added Silent Planet - Everything Was Sound/01 - Inherit the Earth.mp3
+Apr 28 13:29 : update: added Silent Planet - Everything Was Sound/07 - REDIVIDEЯ.mp3
+Apr 28 13:29 : update: added /Silent Planet - Trilogy.mp3
+Apr 28 13:29 : update: added /Wolves At The Gate - The Cure.mp3
+Apr 28 13:29 : update: added /Bury Tomorrow - Black Flame (Single Edit).mp3
+Apr 28 13:29 : update: added August Burns Red - Guardians/11 - Three Fountains.mp3
+Apr 28 13:29 : update: added August Burns Red - Guardians/06 - Dismembered Memory.mp3
+Apr 28 13:29 : update: added August Burns Red - Guardians/05 - Lighthouse.mp3
+Apr 28 13:29 : update: added August Burns Red - Guardians/03 - Paramount.mp3
+Apr 28 13:29 : update: added August Burns Red - Guardians/10 - Empty Heaven.mp3
+Apr 28 13:29 : update: added August Burns Red - Guardians/02 - Bones.mp3
+Apr 28 13:29 : update: added August Burns Red - Guardians/09 - Extinct By Instinct.mp3
+Apr 28 13:29 : update: added August Burns Red - Guardians/08 - Bloodletter.mp3
+Apr 28 13:29 : update: added August Burns Red - Guardians/01 - The Narrative.mp3
+Apr 28 13:29 : update: added August Burns Red - Guardians/04 - Defender.mp3
+Apr 28 13:29 : update: added August Burns Red - Guardians/07 - Ties That Bind.mp3
+Apr 28 13:29 : update: added Silent Planet - The Night God Slept Redux/01 - The Well Redux.mp3
+Apr 28 13:29 : update: added Silent Planet - The Night God Slept Redux/09 - To Thirst for the Sea Redux.mp3
+Apr 28 13:29 : update: added Silent Planet - The Night God Slept Redux/03 - I Drowned in the Desert Redux.mp3
+Apr 28 13:29 : update: added Silent Planet - The Night God Slept Redux/04 - Native Blood Redux.mp3
+Apr 28 13:29 : update: added Silent Planet - The Night God Slept Redux/06 - Firstwake Redux.mp3
+Apr 28 13:29 : update: added Silent Planet - The Night God Slept Redux/11 - Depths II Redux.mp3
+Apr 28 13:29 : update: added Silent Planet - The Night God Slept Redux/10 - Wasteland Redux.mp3
+Apr 28 13:29 : update: added Silent Planet - The Night God Slept Redux/08 - First Mother (Lilith) Redux.mp3
+Apr 28 13:29 : update: added Silent Planet - The Night God Slept Redux/07 - Darkstrand (Hibakusha) Redux.mp3
+Apr 28 13:29 : update: added Silent Planet - The Night God Slept Redux/02 - XX (City Grave) Redux.mp3
+Apr 28 13:29 : update: added Silent Planet - The Night God Slept Redux/05 - Tiny Hands (Au Revoir) Redux.mp3
+Apr 28 13:29 : update: added August Burns Red - Constellations/12 - Crusades.mp3
+Apr 28 13:29 : update: added August Burns Red - Constellations/02 - Existence.mp3
+Apr 28 13:29 : update: added August Burns Red - Constellations/05 - Mariana's Trench.mp3
+Apr 28 13:29 : update: added August Burns Red - Constellations/08 - Paradox.mp3
+Apr 28 13:29 : update: added August Burns Red - Constellations/04 - White Washed.mp3
+Apr 28 13:29 : update: added August Burns Red - Constellations/07 - Indonesia.mp3
+Apr 28 13:29 : update: added August Burns Red - Constellations/10 - Rationalist.mp3
+Apr 28 13:29 : update: added August Burns Red - Constellations/01 - Thirty and Seven.mp3
+Apr 28 13:29 : update: added August Burns Red - Constellations/06 - The Escape Artist.mp3
+Apr 28 13:29 : update: added August Burns Red - Constellations/09 - Meridian.mp3
+Apr 28 13:29 : update: added August Burns Red - Constellations/03 - Ocean of Apathy.mp3
+Apr 28 13:29 : update: added August Burns Red - Constellations/11 - Meddler.mp3
+Apr 28 13:29 : update: added Phinehas - The Phinehas - EP/04 - I Am The Lion.mp3
+Apr 28 13:29 : update: added Phinehas - The Phinehas - EP/02 - The Jungle.mp3
+Apr 28 13:29 : update: added Phinehas - The Phinehas - EP/05 - Grace Disguised By Darkness.mp3
+Apr 28 13:29 : update: added Phinehas - The Phinehas - EP/01 - Well If the Earths Are Stopped, Then the Fox Faces the Hounds.mp3
+Apr 28 13:29 : update: added Phinehas - The Phinehas - EP/03 - Panhammer.mp3
+Apr 28 13:29 : update: added Convictions - Unworthy/01 - The Art of Breathing.mp3
+Apr 28 13:29 : update: added Convictions - Unworthy/03 - Earth__Born.mp3
+Apr 28 13:29 : update: added Convictions - Unworthy/04 - Heart of Fire (feat. Ryan Kirby of Fit for a King).mp3
+Apr 28 13:29 : update: added Convictions - Unworthy/02 - The Drifter.mp3
+Apr 28 13:29 : update: added /Fit For A King - Oblivion.mp3
+Apr 28 13:29 : update: added Phinehas - Dark Flag/05 - Hell Below.mp3
+Apr 28 13:29 : update: added Phinehas - Dark Flag/07 - Break the Earth.mp3
+Apr 28 13:29 : update: added Phinehas - Dark Flag/12 - Know Death; Know Forever.mp3
+Apr 28 13:29 : update: added Phinehas - Dark Flag/08 - My Rosary.mp3
+Apr 28 13:29 : update: added Phinehas - Dark Flag/11 - Meaningless Names.mp3
+Apr 28 13:29 : update: added Phinehas - Dark Flag/03 - I Saw the Bombs Fall.mp3
+Apr 28 13:29 : update: added Phinehas - Dark Flag/10 - Communion for Ravens.mp3
+Apr 28 13:29 : update: added Phinehas - Dark Flag/06 - A War That Never Ends.mp3
+Apr 28 13:29 : update: added Phinehas - Dark Flag/02 - Burning Bright.mp3
+Apr 28 13:29 : update: added Phinehas - Dark Flag/01 - Dark Flag.mp3
+Apr 28 13:29 : update: added Phinehas - Dark Flag/04 - The 38th Parallel.mp3
+Apr 28 13:29 : update: added Phinehas - Dark Flag/09 - The Arduous March.mp3
+Apr 28 13:29 : update: added /Fit For A King - Slave to Nothing.mp3
+Apr 28 13:29 : update: added For All Eternity - The Will to Rebuild/03 - Nightmare.mp3
+Apr 28 13:29 : update: added For All Eternity - The Will to Rebuild/02 - Fallout.mp3
+Apr 28 13:29 : update: added For All Eternity - The Will to Rebuild/04 - The Will.mp3
+Apr 28 13:29 : update: added For All Eternity - The Will to Rebuild/01 - Shadow.mp3
+Apr 28 13:29 : update: added For All Eternity - The Will to Rebuild/10 - Derailed.mp3
+Apr 28 13:29 : update: added For All Eternity - The Will to Rebuild/11 - Clearer.mp3
+Apr 28 13:29 : update: added For All Eternity - The Will to Rebuild/08 - Ascendant.mp3
+Apr 28 13:29 : update: added For All Eternity - The Will to Rebuild/07 - Deep Down.mp3
+Apr 28 13:29 : update: added For All Eternity - The Will to Rebuild/06 - The Vacated.mp3
+Apr 28 13:29 : update: added For All Eternity - The Will to Rebuild/05 - September.mp3
+Apr 28 13:29 : update: added For All Eternity - The Will to Rebuild/09 - Vivid.mp3
+Apr 28 13:29 : update: added Convictions - Hallowed Spirit _ Violent Divide/01 - Moros.mp3
+Apr 28 13:29 : update: added Convictions - Hallowed Spirit _ Violent Divide/06 - The Kidney.mp3
+Apr 28 13:29 : update: added Convictions - Hallowed Spirit _ Violent Divide/04 - Doubt _ _ Full.mp3
+Apr 28 13:29 : update: added Convictions - Hallowed Spirit _ Violent Divide/02 - Sharks.mp3
+Apr 28 13:29 : update: added Convictions - Hallowed Spirit _ Violent Divide/05 - The Will.mp3
+Apr 28 13:29 : update: added Convictions - Hallowed Spirit _ Violent Divide/03 - The Dahlia Disease.mp3
+Apr 28 13:29 : update: added Memphis May Fire - The Hollow/02 - The Unfaithful.mp3
+Apr 28 13:29 : update: added Memphis May Fire - The Hollow/09 - The Reality.mp3
+Apr 28 13:29 : update: added Memphis May Fire - The Hollow/04 - The Abandoned.mp3
+Apr 28 13:29 : update: added Memphis May Fire - The Hollow/06 - The Commanded.mp3
+Apr 28 13:29 : update: added Memphis May Fire - The Hollow/07 - The Burden (Interlude).mp3
+Apr 28 13:29 : update: added Memphis May Fire - The Hollow/01 - The Sinner.mp3
+Apr 28 13:29 : update: added Memphis May Fire - The Hollow/10 - The Redeemed.mp3
+Apr 28 13:29 : update: added Memphis May Fire - The Hollow/08 - The Haunted.mp3
+Apr 28 13:29 : update: added Memphis May Fire - The Hollow/03 - The Victim.mp3
+Apr 28 13:29 : update: added Memphis May Fire - The Hollow/05 - The Deceived.mp3
+Apr 28 13:29 : update: added /Phinehas - Know Death; Know Forever.mp3
+Apr 28 13:29 : update: added /Silent Planet - Northern Fires (Guernica).mp3
+Apr 28 13:29 : update: added /Fit For A King - Shadows & Echoes.mp3
+Apr 28 13:31 : client: [0] opened from 127.0.0.1:49848
+Apr 28 13:32 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 28 13:32 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 28 13:33 : player: played "Alive in Color - To Stay Alive/01 - Deadicated.mp3"
+Apr 28 13:36 : player: played "Alive in Color - To Stay Alive/02 - Say Anything.mp3"
+Apr 28 13:42 : player: played "Alive in Color - To Stay Alive/03 - Been Lost.mp3"
+Apr 28 13:46 : player: played "Alive in Color - To Stay Alive/04 - Miss Direction.mp3"
+Apr 28 13:48 : player: played "Alive in Color - To Stay Alive/05 - Into the Desert.mp3"
+Apr 28 13:51 : player: played "Alive in Color - To Stay Alive/06 - To Stay Alive.mp3"
+Apr 28 13:55 : player: played "Alive in Color - To Stay Alive/07 - Awake in Me.mp3"
+Apr 28 14:00 : player: played "Alive in Color - To Stay Alive/08 - Home.mp3"
+Apr 28 14:03 : player: played "Alive in Color - To Stay Alive/09 - Abandoned Youth.mp3"
+Apr 28 14:30 : player: played "Alive in Color - To Stay Alive/03 - Been Lost.mp3"
+Apr 28 14:34 : player: played "Alive in Color - To Stay Alive/04 - Miss Direction.mp3"
+Apr 28 14:36 : player: played "Alive in Color - To Stay Alive/05 - Into the Desert.mp3"
+Apr 28 14:39 : player: played "Alive in Color - To Stay Alive/06 - To Stay Alive.mp3"
+Apr 28 14:43 : player: played "Alive in Color - To Stay Alive/07 - Awake in Me.mp3"
+Apr 28 14:48 : player: played "Alive in Color - To Stay Alive/08 - Home.mp3"
+Apr 28 14:51 : player: played "Alive in Color - To Stay Alive/09 - Abandoned Youth.mp3"

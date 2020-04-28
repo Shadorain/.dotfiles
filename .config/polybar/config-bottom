@@ -1,0 +1,99 @@
+
+lor]
+trans = #00000000
+white = #FFFFFF
+ 
+;bg = #243B4C
+bg = #1b2b34
+fg = #c0c5ce
+fg-alt = #5fadad
+ 
+acolor = #88c0d0
+curgent = #e53935
+occupied = #fac863
+ 
+## Material Colors
+ 
+black = #0b0d19
+alpha = #aa000000
+ 
+[bar/bottom]
+radius-top = 5
+radius-bottom = 5
+monitor = LVDS1
+width = 8.5%
+height = 20
+offset-x = 0.5%
+offset-y = 0.5%
+bottom = true
+fixed-center = true
+line-size = 0
+background = ${color.black}
+foreground = ${color.fg}
+ 
+;border-size = 2
+;border-color = ${color.border}
+ 
+module-margin-left = 1
+module-margin-right = 1
+ 
+font-0 = "Cascadia Code:pixelsize=11;2"
+font-1 = "mononoki Nerd Font:pixelsize=16;2"
+font-2 = "mononoki Nerd Font:pixelsize=11;2"
+ 
+ 
+# cursor-click = pointer
+# cursor-scroll = ns-resize
+ 
+;tray-position = right
+;tray-padding = 0
+;tray-maxsize = 16
+ 
+scroll-up = bspc desktop -f prev.local
+scroll-down = bspc desktop -f next.local
+ 
+modules-left =
+modules-center = workspaces
+ 
+ 
+[module/arch]
+type = custom/text
+content = %{T3}
+content-padding = 0
+content-background = ${color.black}
+content-foreground = ${color.fg}
+click-left = exec ~/.config/polybar/scripts/rmenu_g
+click-middle = rfull
+click-right = rmenu_wi_g
+ 
+[module/workspaces]
+type = internal/xworkspaces
+pin-workspaces = true
+enable-click = true
+enable-scroll = true
+format-padding = 0
+ 
+icon-0 = One;1
+icon-1 = Two;2
+icon-2 = Three;3
+icon-3 = Four;4
+ 
+format = <label-state>
+label-active = •
+label-occupied = %icon%
+label-urgent = %icon%
+label-empty = %icon%
+ 
+label-occupied-padding = 1
+label-empty-padding = 1
+label-urgent-padding = 1
+label-active-padding = 1
+ 
+label-active-foreground = ${color.fg-alt}
+label-urgent-foreground = ${color.fg-alt}
+label-empty-foreground = ${color.fg}
+label-occupied-foreground = ${color.fg}
+ 
+label-active-underline = ${color.fg}
+label-urgent-underline = ${color.fg}
+label-occupied-underline = ${color.fg}
