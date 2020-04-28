@@ -1,5 +1,5 @@
 # .dotfiles
-This repo holds all my rice config files! 
+This repo holds all my rice config files!  
 They are a little messy from much trial and error, but the commented out portions may help, so I left everything in :)
 
 ## Statistics
